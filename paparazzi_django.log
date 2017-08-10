@@ -1,0 +1,1075 @@
+/Users/Chris/Documents/pdjango/bin/python: can't find '__main__' module in '/Users/Chris/Documents/paparazzi_django'
+/Users/Chris/Documents/pdjango/bin/python: can't find '__main__' module in '/Users/Chris/Documents/paparazzi_django'
+/Users/Chris/Documents/pdjango/bin/python: can't find '__main__' module in '/Users/Chris/Documents/paparazzi_django'
+sent email
+sent email
+{'title': u'Whimsy Ways', 'color': u'Blue', 'title_original': u'Whimsy Ways - Blue', 'url': u'https://paparazziaccessories.com/shop/products/whimsy-ways-blue/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/22404_1image1-blue-9-528_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 10, 50, 8, 993077)}
+{'title': u'I Feel REFINED', 'color': u'Brass', 'title_original': u'I Feel REFINED - Brass', 'url': u'https://paparazziaccessories.com/shop/products/i-feel-refined-brass/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/20221_1Mainimage-Brass-9-507_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 10, 50, 9, 929172)}
+{'title': u'Casually Colorful', 'color': u'Pink', 'title_original': u'Casually Colorful - Pink', 'url': u'https://paparazziaccessories.com/shop/products/casually-colorful-pink/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/21471_1MainImage-Pink-18-917_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 10, 50, 17, 870665)}
+{'title': u'Rich is Rich', 'color': u'White', 'title_original': u'Rich is Rich - White', 'url': u'https://paparazziaccessories.com/shop/products/rich-is-rich-white/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/21199_1Mainimage-White-19-24_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 10, 50, 18, 911612)}
+{'title': u'Heart Of A Lion', 'color': u'Copper', 'title_original': u'Heart Of A Lion - Copper', 'url': u'https://paparazziaccessories.com/shop/products/heart-of-a-lion-copper/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/22856_1Mainimage-Coppe-16-425_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 4, 252780)}
+{'title': u'Everyones A Star', 'color': u'White', 'title_original': u'Everyones A Star - White', 'url': u'https://paparazziaccessories.com/shop/products/everyones-a-star-white/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/23246_1MainImage-White-16-323_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 5, 729416)}
+{'title': u'Lunar Eclipse', 'color': u'Yellow', 'title_original': u'Lunar Eclipse - Yellow', 'url': u'https://paparazziaccessories.com/shop/products/lunar-eclipse-yellow/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/22676_1image1-yellow-18-19_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 7, 884008)}
+{'title': u'Summer Mai Tai', 'color': u'Pink', 'title_original': u'Summer Mai Tai - Pink', 'url': u'https://paparazziaccessories.com/shop/products/summer-mai-tai-pink/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/23302_1Mainimage-Pink-3-16_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 7, 885134)}
+{'title': u'SHORE Thing', 'color': u'Yellow', 'title_original': u'SHORE Thing - Yellow', 'url': u'https://paparazziaccessories.com/shop/products/shore-thing-yellow/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/23479_1image1-yellow-3-10_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 7, 885494)}
+{'title': u'Fighting SPEAR-it', 'color': u'Gold', 'title_original': u'Fighting SPEAR-it - Gold', 'url': u'https://paparazziaccessories.com/shop/products/fighting-spear-it-gold/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/23411_1image3-gold-6-7_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 7, 885613)}
+{'title': u'The Earth Laughs In Flowers', 'color': u'Copper', 'title_original': u'The Earth Laughs In Flowers - Copper', 'url': u'https://paparazziaccessories.com/shop/products/the-earth-laughs-in-flowers-copper/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/22291_1Mainimage-Copper-6-10_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 9, 325712)}
+{'title': u'Whimsy Ways', 'color': u'Blue', 'title_original': u'Whimsy Ways - Blue', 'url': u'https://paparazziaccessories.com/shop/products/whimsy-ways-blue/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/22404_1image1-blue-9-528_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 10, 294712)}
+{'title': u'I Feel REFINED', 'color': u'Brass', 'title_original': u'I Feel REFINED - Brass', 'url': u'https://paparazziaccessories.com/shop/products/i-feel-refined-brass/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/20221_1Mainimage-Brass-9-507_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 11, 952987)}
+{'title': u'Casually Colorful', 'color': u'Pink', 'title_original': u'Casually Colorful - Pink', 'url': u'https://paparazziaccessories.com/shop/products/casually-colorful-pink/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/21471_1MainImage-Pink-18-917_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 19, 917388)}
+{'title': u'Rich is Rich', 'color': u'White', 'title_original': u'Rich is Rich - White', 'url': u'https://paparazziaccessories.com/shop/products/rich-is-rich-white/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/21199_1Mainimage-White-19-24_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 22, 793537)}
+{'title': u'Tiny Heartbeats', 'color': u'Silver', 'title_original': u'Tiny Heartbeats - Silver', 'url': u'https://paparazziaccessories.com/shop/products/tiny-heartbeats-silver/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/23225_1image1-silver-19-225_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 0, 24, 284896)}
+sent email
+ran at 2017-08-02 11:00:26.796744
+{'title': u'Heart Of A Lion', 'color': u'Copper', 'title_original': u'Heart Of A Lion - Copper', 'url': u'https://paparazziaccessories.com/shop/products/heart-of-a-lion-copper/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/22856_1Mainimage-Coppe-16-425_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 5, 88755)}
+{'title': u'Everyones A Star', 'color': u'White', 'title_original': u'Everyones A Star - White', 'url': u'https://paparazziaccessories.com/shop/products/everyones-a-star-white/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/23246_1MainImage-White-16-323_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 6, 615929)}
+{'title': u'Lunar Eclipse', 'color': u'Yellow', 'title_original': u'Lunar Eclipse - Yellow', 'url': u'https://paparazziaccessories.com/shop/products/lunar-eclipse-yellow/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/22676_1image1-yellow-18-19_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 9, 29003)}
+{'title': u'Summer Mai Tai', 'color': u'Pink', 'title_original': u'Summer Mai Tai - Pink', 'url': u'https://paparazziaccessories.com/shop/products/summer-mai-tai-pink/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/23302_1Mainimage-Pink-3-16_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 9, 29886)}
+{'title': u'SHORE Thing', 'color': u'Yellow', 'title_original': u'SHORE Thing - Yellow', 'url': u'https://paparazziaccessories.com/shop/products/shore-thing-yellow/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/23479_1image1-yellow-3-10_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 9, 30194)}
+{'title': u'Fighting SPEAR-it', 'color': u'Gold', 'title_original': u'Fighting SPEAR-it - Gold', 'url': u'https://paparazziaccessories.com/shop/products/fighting-spear-it-gold/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/23411_1image3-gold-6-7_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 9, 30296)}
+{'title': u'The Earth Laughs In Flowers', 'color': u'Copper', 'title_original': u'The Earth Laughs In Flowers - Copper', 'url': u'https://paparazziaccessories.com/shop/products/the-earth-laughs-in-flowers-copper/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/22291_1Mainimage-Copper-6-10_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 10, 458621)}
+{'title': u'Whimsy Ways', 'color': u'Blue', 'title_original': u'Whimsy Ways - Blue', 'url': u'https://paparazziaccessories.com/shop/products/whimsy-ways-blue/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/22404_1image1-blue-9-528_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 14, 220900)}
+{'title': u'I Feel REFINED', 'color': u'Brass', 'title_original': u'I Feel REFINED - Brass', 'url': u'https://paparazziaccessories.com/shop/products/i-feel-refined-brass/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/20221_1Mainimage-Brass-9-507_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 16, 770162)}
+{'title': u'Casually Colorful', 'color': u'Pink', 'title_original': u'Casually Colorful - Pink', 'url': u'https://paparazziaccessories.com/shop/products/casually-colorful-pink/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/21471_1MainImage-Pink-18-917_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 27, 243817)}
+{'title': u'Rich is Rich', 'color': u'White', 'title_original': u'Rich is Rich - White', 'url': u'https://paparazziaccessories.com/shop/products/rich-is-rich-white/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/21199_1Mainimage-White-19-24_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 30, 318392)}
+{'title': u'Tiny Heartbeats', 'color': u'Silver', 'title_original': u'Tiny Heartbeats - Silver', 'url': u'https://paparazziaccessories.com/shop/products/tiny-heartbeats-silver/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/23225_1image1-silver-19-225_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 32, 53216)}
+{'title': u'Nothing But HEARTBEAT', 'color': u'Silver', 'title_original': u'Nothing But HEARTBEAT - Silver', 'url': u'https://paparazziaccessories.com/shop/products/nothing-but-heartbeat-silver/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/23707_1image1-silver-19-224_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 11, 10, 32, 53358)}
+sent email
+ran at 2017-08-02 11:10:33.950661
+ran at 2017-08-02 11:20:29.425403
+ran at 2017-08-02 11:30:28.997464
+ran at 2017-08-02 11:40:22.335771
+ran at 2017-08-02 11:50:29.904872
+ran at 2017-08-02 12:00:30.402519
+ran at 2017-08-02 12:10:27.378517
+ran at 2017-08-02 12:20:28.727074
+ran at 2017-08-02 12:30:26.782810
+ran at 2017-08-02 12:40:35.718549
+ran at 2017-08-02 12:50:35.893710
+ran at 2017-08-02 13:00:34.660186
+ran at 2017-08-02 13:10:26.136142
+ran at 2017-08-02 13:20:31.640690
+ran at 2017-08-02 13:30:27.967225
+ran at 2017-08-02 13:40:23.182945
+ran at 2017-08-02 13:50:20.534356
+ran at 2017-08-02 14:00:21.534655
+{'title': u'Beach Wedding', 'color': u'White', 'title_original': u'Beach Wedding - White', 'url': u'https://paparazziaccessories.com/shop/products/beach-wedding-white/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/22625_1IMAGE1-BRACELET_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 14, 10, 29, 511628)}
+{'title': u'Hibiscus Breeze', 'color': u'Yellow', 'title_original': u'Hibiscus Breeze - Yellow', 'url': u'https://paparazziaccessories.com/shop/products/hibiscus-breeze-yellow/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/22948_1Mainimage-Yellow-19-220_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 2, 14, 10, 29, 511732)}
+sent email
+ran at 2017-08-02 14:10:32.991371
+ran at 2017-08-02 14:20:23.462639
+ran at 2017-08-02 14:30:21.793811
+ran at 2017-08-02 14:40:22.654455
+ran at 2017-08-02 14:50:21.950864
+ran at 2017-08-02 15:00:25.017647
+ran at 2017-08-02 15:10:21.017887
+ran at 2017-08-02 15:20:22.149912
+ran at 2017-08-02 15:30:21.194257
+ran at 2017-08-02 21:50:18.969123
+ran at 2017-08-02 22:00:17.774718
+ran at 2017-08-02 22:10:17.700833
+ran at 2017-08-02 22:20:17.334588
+ran at 2017-08-02 22:30:17.047265
+ran at 2017-08-02 22:40:16.501412
+ran at 2017-08-02 22:50:18.220474
+ran at 2017-08-02 23:00:17.420500
+ran at 2017-08-02 23:10:15.951927
+{'title': u'Front Row Fabulous', 'color': u'Black', 'title_original': u'Front Row Fabulous - Black', 'url': u'https://paparazziaccessories.com/shop/products/front-row-fabulous-black/', 'image_url': u'https://vw-paparazzi.storage.googleapis.com/thumbnails/products/18501_1Image1-black-24-97-5_1.jpg.960x960_q85.jpg', 'date_created': datetime.datetime(2017, 8, 3, 7, 50, 15, 482976)}
+sent email
+ran at 2017-08-03 07:50:21.997775
+ran at 2017-08-03 08:00:18.083674
+ran at 2017-08-03 08:10:17.254713
+ran at 2017-08-03 08:20:19.880982
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 124, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 30, in main
+    store_items(items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 82, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 464, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 374, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1105, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+    raise original_exception
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.being_sold' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 124, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 30, in main
+    store_items(items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 82, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 464, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 374, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1105, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+    raise original_exception
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.being_sold' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 124, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 30, in main
+    store_items(items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 82, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 464, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 374, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1105, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+    raise original_exception
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.being_sold' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 141, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 32, in main
+    new_items = get_new_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 85, in get_new_items
+    inner_qs = Items.objects.filter(being_sold=True).values_list('id', flat=True)
+NameError: global name 'Items' is not defined
+sent email
+ran at 2017-08-03 09:10:25.563993
+ran at 2017-08-03 09:30:17.382953
+ran at 2017-08-03 09:40:20.012504
+ran at 2017-08-03 09:50:16.517977
+ran at 2017-08-03 10:00:22.816365
+ran at 2017-08-03 10:10:17.980051
+You Gotta Climb - Gold https://paparazziaccessories.com/shop/products/you-gotta-climb-gold/
+One In A MEDALLION - Yellow https://paparazziaccessories.com/shop/products/one-in-a-medallion-yellow/
+A Free SPEAR-it - Pink https://paparazziaccessories.com/shop/products/a-free-spear-it-pink/
+With All Your Heart - Orange https://paparazziaccessories.com/shop/products/with-all-your-heart-orange/
+Midnight Moonwalk - White https://paparazziaccessories.com/shop/products/midnight-moonwalk-white/
+Im So Fancy - Pink https://paparazziaccessories.com/shop/products/im-so-fancy-pink/
+Raining Rainbows - White https://paparazziaccessories.com/shop/products/raining-rainbows-white/
+Street Shimmer - Copper https://paparazziaccessories.com/shop/products/street-shimmer-copper/
+Name Your Price - Black https://paparazziaccessories.com/shop/products/name-your-price-black-7487/
+I Speak Glitter - Green https://paparazziaccessories.com/shop/products/i-speak-glitter-green/
+Urban Empress - Gold https://paparazziaccessories.com/shop/products/urban-empress-gold/
+Give It A TRIBE - Brass https://paparazziaccessories.com/shop/products/give-it-a-tribe-brass/
+Absolutely Radiant - Silver https://paparazziaccessories.com/shop/products/absolutely-radiant-silver/
+Tiny Heartbeats - Silver https://paparazziaccessories.com/shop/products/tiny-heartbeats-silver/
+Nothing But HEARTBEAT - Silver https://paparazziaccessories.com/shop/products/nothing-but-heartbeat-silver/
+Beach Wedding - White https://paparazziaccessories.com/shop/products/beach-wedding-white/
+sent email
+ran at 2017-08-03 10:20:23.321884
+ran at 2017-08-03 10:30:19.610213
+ran at 2017-08-03 10:40:18.782926
+ran at 2017-08-03 10:50:19.403890
+ran at 2017-08-03 11:00:18.385761
+ran at 2017-08-03 11:10:21.601458
+ran at 2017-08-03 11:20:19.106874
+ran at 2017-08-03 11:30:20.324418
+ran at 2017-08-03 11:40:18.997689
+ran at 2017-08-03 11:50:19.034121
+A Leading FLIGHT - Yellow https://paparazziaccessories.com/shop/products/a-leading-flight-yellow/
+sent email
+ran at 2017-08-03 12:00:23.644933
+ran at 2017-08-03 12:10:20.182905
+ran at 2017-08-03 12:20:22.288125
+ran at 2017-08-03 12:30:23.038920
+Blessed - Brass https://paparazziaccessories.com/shop/products/blessed-brass/
+sent email
+ran at 2017-08-03 12:40:25.751936
+Unique In Every Way - Copper https://paparazziaccessories.com/shop/products/unique-in-every-way-copper/
+sent email
+ran at 2017-08-03 12:50:22.810336
+Love to Love - Copper https://paparazziaccessories.com/shop/products/love-to-love-copper/
+sent email
+ran at 2017-08-03 13:00:22.883225
+ran at 2017-08-03 13:10:19.110794
+Wherever Your Heart Takes You - Orange https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-orange/
+sent email
+ran at 2017-08-03 13:20:22.319517
+Wherever Your Heart Takes You - Red https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-red/
+sent email
+ran at 2017-08-03 13:30:22.424371
+ran at 2017-08-03 13:40:19.375966
+Lights! Camera! Action! https://paparazziaccessories.com/shop/products/elegant-black-and-white-blockbuster-bracelet/
+City Chic - Black https://paparazziaccessories.com/shop/products/city-chic-black/
+sent email
+ran at 2017-08-03 13:50:21.436937
+ran at 2017-08-03 14:00:19.229931
+ran at 2017-08-03 14:10:18.202376
+Egyptian Etiquette - Brass https://paparazziaccessories.com/shop/products/egyptian-etiquette-brass/
+sent email
+ran at 2017-08-03 14:20:23.414862
+Egyptian Etiquette - Copper https://paparazziaccessories.com/shop/products/egyptian-etiquette-copper/
+sent email
+ran at 2017-08-03 14:30:24.862133
+I Could Have Danced All Night - Pink https://paparazziaccessories.com/shop/products/i-could-have-danced-all-night-pink/
+Absolutely Radiant - Silver https://paparazziaccessories.com/shop/products/absolutely-radiant-silver/
+sent email
+ran at 2017-08-03 14:40:19.103883
+ran at 2017-08-03 14:50:17.943242
+ran at 2017-08-03 15:00:17.037276
+Tiny Heartbeats - Silver https://paparazziaccessories.com/shop/products/tiny-heartbeats-silver/
+sent email
+ran at 2017-08-03 15:10:23.219586
+ran at 2017-08-03 15:20:18.212522
+Nothing But HEARTBEAT - Silver https://paparazziaccessories.com/shop/products/nothing-but-heartbeat-silver/
+sent email
+ran at 2017-08-03 15:30:22.240545
+ran at 2017-08-04 12:10:15.802024
+ran at 2017-08-04 12:20:14.961081
+ran at 2017-08-04 12:30:16.943426
+A Leading FLIGHT - Yellow https://paparazziaccessories.com/shop/products/a-leading-flight-yellow/
+Unique In Every Way - Copper https://paparazziaccessories.com/shop/products/unique-in-every-way-copper/
+Love to Love - Copper https://paparazziaccessories.com/shop/products/love-to-love-copper/
+Wherever Your Heart Takes You - Orange https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-orange/
+Wherever Your Heart Takes You - Red https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-red/
+sent email
+ran at 2017-08-04 16:51:40.083488
+ran at 2017-08-04 17:00:13.701219
+ran at 2017-08-04 17:10:14.186775
+Make Your Own Sunshine - Purple https://paparazziaccessories.com/shop/products/make-your-own-sunshine-purple/
+Be Happy - Gold https://paparazziaccessories.com/shop/products/be-happy-gold/
+Make Today Count - White https://paparazziaccessories.com/shop/products/make-today-count-white/
+Will You BEAD My Girl? - Red https://paparazziaccessories.com/shop/products/will-you-bead-my-girl-red/
+Dancing Genie - White https://paparazziaccessories.com/shop/products/dancing-genie-white/
+The Major Leagues - Gold https://paparazziaccessories.com/shop/products/the-major-leagues-gold/
+Anything Is POSH-ible! - Pink https://paparazziaccessories.com/shop/products/anything-is-posh-ible-pink/
+Put On Your Boots - Brass https://paparazziaccessories.com/shop/products/put-on-your-boots-brass/
+Full Sail Ahead - Green https://paparazziaccessories.com/shop/products/full-sail-ahead-green/
+Lights! Camera! Action! https://paparazziaccessories.com/shop/products/elegant-black-and-white-blockbuster-bracelet/
+City Chic - Black https://paparazziaccessories.com/shop/products/city-chic-black/
+Egyptian Etiquette - Brass https://paparazziaccessories.com/shop/products/egyptian-etiquette-brass/
+Egyptian Etiquette - Copper https://paparazziaccessories.com/shop/products/egyptian-etiquette-copper/
+I Could Have Danced All Night - Pink https://paparazziaccessories.com/shop/products/i-could-have-danced-all-night-pink/
+Absolutely Radiant - Silver https://paparazziaccessories.com/shop/products/absolutely-radiant-silver/
+sent email
+ran at 2017-08-04 17:21:37.681319
+I Love You KNOT - Gold https://paparazziaccessories.com/shop/products/i-love-you-knot-gold/
+Western Walkabout - Blue https://paparazziaccessories.com/shop/products/western-walkabout-blue/
+Texas Tempest - Yellow https://paparazziaccessories.com/shop/products/texas-tempest-yellow/
+Sonoran Sunset - Yellow https://paparazziaccessories.com/shop/products/sonoran-sunset-yellow/
+Glitzy-est Of Them All - Pink https://paparazziaccessories.com/shop/products/glitzy-est-of-them-all-pink/
+Head Over Shimmer - Copper https://paparazziaccessories.com/shop/products/head-over-shimmer-copper/
+Send In The Sparkle! - White https://paparazziaccessories.com/shop/products/send-in-the-sparkle-white/
+METRO-politan - Brass https://paparazziaccessories.com/shop/products/metro-politan-brass/
+The Best Is Yet To Be - Copper https://paparazziaccessories.com/shop/products/the-best-is-yet-to-be-copper/
+sent email
+ran at 2017-08-04 17:31:35.639613
+Wherever Your Heart Takes You - Red https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-red/
+sent email
+ran at 2017-08-04 17:41:37.988306
+ran at 2017-08-04 17:50:17.153611
+Lights! Camera! Action! https://paparazziaccessories.com/shop/products/elegant-black-and-white-blockbuster-bracelet/
+City Chic - Black https://paparazziaccessories.com/shop/products/city-chic-black/
+Egyptian Etiquette - Brass https://paparazziaccessories.com/shop/products/egyptian-etiquette-brass/
+sent email
+ran at 2017-08-04 18:01:42.974580
+Damsel in Distress - Red https://paparazziaccessories.com/shop/products/damsel-in-distress-red/
+sent email
+ran at 2017-08-04 18:19:51.677266
+Egyptian Etiquette - Copper https://paparazziaccessories.com/shop/products/egyptian-etiquette-copper/
+sent email
+ran at 2017-08-04 18:21:38.684336
+Tiki Twist - Green https://paparazziaccessories.com/shop/products/tiki-twist-green/
+sent email
+ran at 2017-08-04 18:31:34.714639
+ran at 2017-08-04 18:40:16.297367
+ran at 2017-08-04 18:50:21.412710
+ran at 2017-08-04 19:00:16.028443
+ran at 2017-08-04 19:10:15.874915
+ran at 2017-08-04 19:20:16.948010
+I Could Have Danced All Night - Pink https://paparazziaccessories.com/shop/products/i-could-have-danced-all-night-pink/
+sent email
+ran at 2017-08-04 21:06:17.104961
+Absolutely Radiant - Silver https://paparazziaccessories.com/shop/products/absolutely-radiant-silver/
+NEST In Peace - Silver https://paparazziaccessories.com/shop/products/nest-in-peace-silver/
+Tiny Heartbeats - Silver https://paparazziaccessories.com/shop/products/tiny-heartbeats-silver/
+sent email
+ran at 2017-08-04 21:11:41.136370
+Nothing But HEARTBEAT - Silver https://paparazziaccessories.com/shop/products/nothing-but-heartbeat-silver/
+sent email
+ran at 2017-08-04 21:23:13.962601
+This Time Around - Blue https://paparazziaccessories.com/shop/products/this-time-around-blue/
+sent email
+ran at 2017-08-04 21:51:35.765434
+ran at 2017-08-04 22:00:16.613622
+ran at 2017-08-04 22:10:14.560579
+ran at 2017-08-04 22:20:15.459577
+ran at 2017-08-04 22:30:15.797602
+ran at 2017-08-04 22:40:15.837879
+ran at 2017-08-05 18:10:15.343725
+Tiki Twist - Green https://paparazziaccessories.com/shop/products/tiki-twist-green/
+sent email
+ran at 2017-08-05 19:31:38.394184
+I Could Have Danced All Night - Pink https://paparazziaccessories.com/shop/products/i-could-have-danced-all-night-pink/
+sent email
+ran at 2017-08-05 19:41:32.636648
+ran at 2017-08-05 19:50:15.014908
+ran at 2017-08-06 08:00:16.068647
+ran at 2017-08-06 13:20:16.497056
+ran at 2017-08-06 13:50:14.960823
+ran at 2017-08-06 14:00:12.996856
+ran at 2017-08-06 14:10:14.111788
+ran at 2017-08-06 14:20:15.755273
+ran at 2017-08-06 14:30:14.789853
+ran at 2017-08-06 14:40:13.476551
+Absolutely Radiant - Silver https://paparazziaccessories.com/shop/products/absolutely-radiant-silver/
+NEST In Peace - Silver https://paparazziaccessories.com/shop/products/nest-in-peace-silver/
+Tiny Heartbeats - Silver https://paparazziaccessories.com/shop/products/tiny-heartbeats-silver/
+sent email
+ran at 2017-08-06 15:31:33.935993
+ran at 2017-08-06 17:20:15.281886
+ran at 2017-08-06 17:30:16.050212
+ran at 2017-08-06 17:40:16.754953
+ran at 2017-08-06 17:50:15.079989
+ran at 2017-08-06 18:00:14.333861
+Nothing But HEARTBEAT - Silver https://paparazziaccessories.com/shop/products/nothing-but-heartbeat-silver/
+Beach Wedding - White https://paparazziaccessories.com/shop/products/beach-wedding-white/
+sent email
+ran at 2017-08-06 18:11:32.860441
+ran at 2017-08-06 18:27:09.933084
+ran at 2017-08-06 18:30:44.014487
+ran at 2017-08-06 21:40:13.885265
+ran at 2017-08-06 21:50:13.269451
+Miss YOU-niverse - Silver  https://paparazziaccessories.com/shop/products/miss-you-niverse-silver/
+SCARFed for Attention - Gunmetal https://paparazziaccessories.com/shop/products/scarfed-for-attention-gunmetal/
+SCARFed for Attention - Silver https://paparazziaccessories.com/shop/products/scarf-necklace-silver-blockbuster-necklace/
+Total Eclipse Of the Heart https://paparazziaccessories.com/shop/products/moon-charm-with-silver-pearls-blockbuster-nec/
+In Good Glazes - Peach https://paparazziaccessories.com/shop/products/peach-glaze-blockbuster-necklace/
+A Golden Spell https://paparazziaccessories.com/shop/products/a-golden-spell/
+Fishing for Compliments- Gold  https://paparazziaccessories.com/shop/products/fishing-for-compliments-gold/
+Charmed, I Am Sure - Brown https://paparazziaccessories.com/shop/products/charmed-i-am-sure-brown/
+I Do https://paparazziaccessories.com/shop/products/i-do/
+Unique In Every Way - Copper https://paparazziaccessories.com/shop/products/unique-in-every-way-copper/
+Love to Love - Copper https://paparazziaccessories.com/shop/products/love-to-love-copper/
+Wherever Your Heart Takes You - Orange https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-orange/
+Wherever Your Heart Takes You - Red https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-red/
+Lights! Camera! Action! https://paparazziaccessories.com/shop/products/elegant-black-and-white-blockbuster-bracelet/
+City Chic - Black https://paparazziaccessories.com/shop/products/city-chic-black/
+Egyptian Etiquette - Brass https://paparazziaccessories.com/shop/products/egyptian-etiquette-brass/
+Egyptian Etiquette - Copper https://paparazziaccessories.com/shop/products/egyptian-etiquette-copper/
+Tiki Twist - Green https://paparazziaccessories.com/shop/products/tiki-twist-green/
+I Could Have Danced All Night - Pink https://paparazziaccessories.com/shop/products/i-could-have-danced-all-night-pink/
+Absolutely Radiant - Silver https://paparazziaccessories.com/shop/products/absolutely-radiant-silver/
+NEST In Peace - Silver https://paparazziaccessories.com/shop/products/nest-in-peace-silver/
+sent email
+ran at 2017-08-07 22:26:55.193400
+Stellar Romance - Blue https://paparazziaccessories.com/shop/products/stellar-romance-blue/
+Summer Rose - Brown https://paparazziaccessories.com/shop/products/summer-rose-brown/
+Beyond The Stars - Gold https://paparazziaccessories.com/shop/products/beyond-the-stars-gold/
+Love Alert - Pink https://paparazziaccessories.com/shop/products/love-alert-pink/
+A GLEAM Act - Pink https://paparazziaccessories.com/shop/products/a-gleam-act-pink/
+Everyones A Star - Red https://paparazziaccessories.com/shop/products/everyones-a-star-red/
+Modestly Metro - Silver https://paparazziaccessories.com/shop/products/modestly-metro-silver/
+Summer Rose - White https://paparazziaccessories.com/shop/products/summer-rose-white/
+Chasing A GLEAM - White https://paparazziaccessories.com/shop/products/chasing-a-gleam-white/
+Queen Of The Hive - Silver https://paparazziaccessories.com/shop/products/queen-of-the-hive-silver/
+I Love You KNOT - Brass https://paparazziaccessories.com/shop/products/i-love-you-knot-brass/
+One RING Leads To Another - Copper https://paparazziaccessories.com/shop/products/one-ring-leads-to-another-copper/
+In Some Way, Shape, Or Form - Silver https://paparazziaccessories.com/shop/products/in-some-way-shape-or-form-silver/
+Colorful Calamity - Yellow https://paparazziaccessories.com/shop/products/colorful-calamity-yellow/
+Once Upon A Dream - Black https://paparazziaccessories.com/shop/products/once-upon-a-dream-black/
+Looks Like Radiance - Blue https://paparazziaccessories.com/shop/products/looks-like-radiance-blue/
+Runway Shine - Brown https://paparazziaccessories.com/shop/products/runway-shine-brown/
+Diva Dynasty - Gold https://paparazziaccessories.com/shop/products/diva-dynasty-gold/
+Summer Mermaid - Gold https://paparazziaccessories.com/shop/products/summer-mermaid-gold/
+Moonlight Music - Gold https://paparazziaccessories.com/shop/products/moonlight-music-gold/
+Cheers To Tears - Multi https://paparazziaccessories.com/shop/products/cheers-to-tears-multi/
+LAYER Down The Law! - Silver https://paparazziaccessories.com/shop/products/layer-down-the-law-silver/
+A Sparkle Affair - White https://paparazziaccessories.com/shop/products/a-sparkle-affair-white/
+Looks Like Radiance - White https://paparazziaccessories.com/shop/products/looks-like-radiance-white/
+Colorfully Courageous - Brass https://paparazziaccessories.com/shop/products/colorfully-courageous-brass/
+Feather Weather - Brass https://paparazziaccessories.com/shop/products/feather-weather-brass/
+Caribbean Carnival - Green https://paparazziaccessories.com/shop/products/caribbean-carnival-green/
+I Know It ZEN I See It - Orange https://paparazziaccessories.com/shop/products/i-know-it-zen-i-see-it-orange/
+Caribbean Carnival - Pink https://paparazziaccessories.com/shop/products/caribbean-carnival-pink/
+Me, Myself, and ISLAND - Red https://paparazziaccessories.com/shop/products/me-myself-and-island-red/
+Boot Scootin Boogie - Yellow https://paparazziaccessories.com/shop/products/boot-scootin-boogie-yellow/
+Desert Drifter - Brass https://paparazziaccessories.com/shop/products/desert-drifter-brass/
+The Earth Laughs In Flowers - Black https://paparazziaccessories.com/shop/products/the-earth-laughs-in-flowers-black/
+Twinkle At Twilight - Blue https://paparazziaccessories.com/shop/products/twinkle-at-twilight-blue/
+Sweet GLEAMS - Blue https://paparazziaccessories.com/shop/products/sweet-gleams-blue/
+Sweet GLEAMS - Brown  https://paparazziaccessories.com/shop/products/sweet-gleams-brown/
+Fleur de Flirt - Copper https://paparazziaccessories.com/shop/products/fleur-de-flirt-copper/
+Twinkle At Twilight - Copper https://paparazziaccessories.com/shop/products/twinkle-at-twilight-copper/
+Twinkle At Twilight - Pink https://paparazziaccessories.com/shop/products/twinkle-at-twilight-pink/
+Whats Not To Love? - Pink https://paparazziaccessories.com/shop/products/whats-not-to-love-pink/
+Moonlight Music - Pink https://paparazziaccessories.com/shop/products/moonlight-music-pink/
+Love Lullaby - Red https://paparazziaccessories.com/shop/products/love-lullaby-red/
+Painted Horizons - Red https://paparazziaccessories.com/shop/products/painted-horizons-red/
+The Earth Laughs In Flowers - Silver https://paparazziaccessories.com/shop/products/the-earth-laughs-in-flowers-silver/
+BLOOM Or Bust - Silver https://paparazziaccessories.com/shop/products/bloom-or-bust-silver/
+Dont Worry, BEACH Happy - Yellow https://paparazziaccessories.com/shop/products/dont-worry-beach-happy-yellow/
+Always On Point - Rose Gold https://paparazziaccessories.com/shop/products/always-on-point-rose-gold/
+Badaboom! - Black https://paparazziaccessories.com/shop/products/badaboom-black/
+GLEAM Chaser - Gold https://paparazziaccessories.com/shop/products/gleam-chaser-gold/
+Pretty As A Bow - Green https://paparazziaccessories.com/shop/products/pretty-as-a-bow-green/
+Bay Beauty - Pink https://paparazziaccessories.com/shop/products/bay-beauty-pink/
+Badaboom! - Silver https://paparazziaccessories.com/shop/products/badaboom-silver/
+Send In The Cavalry - White https://paparazziaccessories.com/shop/products/send-in-the-cavalry-white/
+A Princess Story - White https://paparazziaccessories.com/shop/products/a-princess-story-white/
+Breathless Beauty - White https://paparazziaccessories.com/shop/products/breathless-beauty-white/
+The Next WEST Thing - Black https://paparazziaccessories.com/shop/products/the-next-west-thing-black/
+Natural Habitat - Black https://paparazziaccessories.com/shop/products/natural-habitat-black/
+The Huntress - Blue https://paparazziaccessories.com/shop/products/the-huntress-blue/
+Boomin and Bloomin - Brown https://paparazziaccessories.com/shop/products/boomin-and-bloomin-brown/
+Boomin and Bloomin - Orange https://paparazziaccessories.com/shop/products/boomin-and-bloomin-orange/
+A Rolling SANDSTONE - Pink https://paparazziaccessories.com/shop/products/a-rolling-sandstone-pink/
+River Stone Radiance - Red https://paparazziaccessories.com/shop/products/river-stone-radiance-red/
+Vantage Point - Silver https://paparazziaccessories.com/shop/products/vantage-point-silver/
+Have A Little Faith - Brass https://paparazziaccessories.com/shop/products/have-a-little-faith-brass/
+Make Today Count - Brass https://paparazziaccessories.com/shop/products/make-today-count-brass/
+Fairytales Do Come True - Black https://paparazziaccessories.com/shop/products/fairytales-do-come-true-black/
+How DAISY Is That? - Blue  https://paparazziaccessories.com/shop/products/how-daisy-is-that-blue/
+Master Key - Copper https://paparazziaccessories.com/shop/products/master-key-copper/
+Midnight Moonwalk - Pink https://paparazziaccessories.com/shop/products/midnight-moonwalk-pink/
+How DAISY Is That? - Purple https://paparazziaccessories.com/shop/products/how-daisy-is-that-purple/
+SPIN There, Done That - Purple https://paparazziaccessories.com/shop/products/spin-there-done-that-purple/
+Fairytales Do Come True - Red https://paparazziaccessories.com/shop/products/fairytales-do-come-true-red/
+Color Me Courageous - White https://paparazziaccessories.com/shop/products/color-me-courageous-white/
+Daringly Dallas - Yellow https://paparazziaccessories.com/shop/products/daringly-dallas-yellow/
+Inclined To Shine - Blue Clip-On https://paparazziaccessories.com/shop/products/inclined-to-shine-blue-clip-on/
+Toplinear - White Clip-On https://paparazziaccessories.com/shop/products/toplinear-white-clip-on/
+Portland Party - White https://paparazziaccessories.com/shop/products/portland-party-white/
+The All-Star - Black https://paparazziaccessories.com/shop/products/the-all-star-black/
+Chasing Daylight - Rose Gold https://paparazziaccessories.com/shop/products/chasing-daylight-rose-gold/
+Jam Session - Gold https://paparazziaccessories.com/shop/products/jam-session-gold/
+Still Shining - Silver https://paparazziaccessories.com/shop/products/still-shining-silver/
+Maybe Shes Born With It - Blue Post https://paparazziaccessories.com/shop/products/maybe-shes-born-with-it-blue-post/
+Red Carpet Romance - Black https://paparazziaccessories.com/shop/products/red-carpet-romance-black/
+I Dream Of Deserts - Black https://paparazziaccessories.com/shop/products/i-dream-of-deserts-black/
+May All Your Wishes Come True - Black https://paparazziaccessories.com/shop/products/may-all-your-wishes-come-true-black/
+Radiant Roses - Blue https://paparazziaccessories.com/shop/products/radiant-roses-blue/
+Dressed In Radiance - Brown https://paparazziaccessories.com/shop/products/dressed-in-radiance-brown/
+Turn on the Sparkle - Pink https://paparazziaccessories.com/shop/products/turn-on-the-sparkle-pink/
+Dressed In Radiance - Silver https://paparazziaccessories.com/shop/products/dressed-in-radiance-silver/
+I Think I GLAM - Silver https://paparazziaccessories.com/shop/products/i-think-i-glam-silver/
+Moonlight Over Paris - White https://paparazziaccessories.com/shop/products/moonlight-over-paris-white/
+Dakota Dreams - Black https://paparazziaccessories.com/shop/products/dakota-dreams-black/
+Sunny Sunstones - Orange https://paparazziaccessories.com/shop/products/sunny-sunstones-orange/
+Fallen Feather - Red https://paparazziaccessories.com/shop/products/fallen-feather-red/
+FLIGHT Of Day - White https://paparazziaccessories.com/shop/products/flight-of-day-white/
+Viva La Vida - Red https://paparazziaccessories.com/shop/products/viva-la-vida-red/
+Guam Gardens - Copper https://paparazziaccessories.com/shop/products/guam-gardens-copper/
+Lost At Sea - Green https://paparazziaccessories.com/shop/products/lost-at-sea-green/
+Bet Your Bottom SAND-Dollar - Orange https://paparazziaccessories.com/shop/products/bet-your-bottom-sand-dollar-orange/
+Catch Some Sparkle - Pink https://paparazziaccessories.com/shop/products/catch-some-sparkle-pink/
+Lost At Sea - Silver https://paparazziaccessories.com/shop/products/lost-at-sea-silver/
+Its Raining, Its Pouring - White https://paparazziaccessories.com/shop/products/its-raining-its-pouring-white/
+Dont Give A GLAM - White https://paparazziaccessories.com/shop/products/dont-give-a-glam-white/
+Central Park - Silver https://paparazziaccessories.com/shop/products/central-park-silver/
+Queens Lace - Brown https://paparazziaccessories.com/shop/products/queens-lace-brown/
+Sweet Kisses - Brown https://paparazziaccessories.com/shop/products/sweet-kisses-brown/
+Moonlight On The Nile - Black https://paparazziaccessories.com/shop/products/moonlight-on-the-nile-black/
+Leave A Little Sparkle - Brass https://paparazziaccessories.com/shop/products/leave-a-little-sparkle-brass/
+Do What Makes You Happy https://paparazziaccessories.com/shop/products/do-what-makes-you-happy/
+Rock Legend - Brown https://paparazziaccessories.com/shop/products/rock-legend-brown/
+First Class Shimmer - Silver https://paparazziaccessories.com/shop/products/first-class-shimmer-silver-3243/
+Ring Girl - Black https://paparazziaccessories.com/shop/products/ring-girl-black/
+Team RINGLEADER - Copper https://paparazziaccessories.com/shop/products/team-ringleader-copper/
+Minimally Metro - Silver https://paparazziaccessories.com/shop/products/minimally-metro-silver/
+Street Style - Silver https://paparazziaccessories.com/shop/products/street-style-silver/
+Dreamy Delight - Black https://paparazziaccessories.com/shop/products/dreamy-delight-black/
+Endlessly Egyptian - Black https://paparazziaccessories.com/shop/products/endlessly-egyptian-black/
+GLITZY Business - Black https://paparazziaccessories.com/shop/products/glitzy-business-black/
+Shimmer Train - Black https://paparazziaccessories.com/shop/products/shimmer-train-black/
+Endless Excellence - Brass https://paparazziaccessories.com/shop/products/endless-excellence-brass/
+Endless Excellence - Gold https://paparazziaccessories.com/shop/products/endless-excellence-gold/
+Stomping Ground - Green https://paparazziaccessories.com/shop/products/stomping-ground-green/
+Mojave Rainbow - White https://paparazziaccessories.com/shop/products/mojave-rainbow-white/
+When In Waikiki - Silver https://paparazziaccessories.com/shop/products/when-in-waikiki-silver/
+Outlaw Club - Black https://paparazziaccessories.com/shop/products/outlaw-club-black/
+Together Forever - Black https://paparazziaccessories.com/shop/products/together-forever-black/
+Rugged Rebel - Brown https://paparazziaccessories.com/shop/products/rugged-rebel-brown/
+Start A Riot https://paparazziaccessories.com/shop/products/start-a-riot/
+Together Forever - Brass https://paparazziaccessories.com/shop/products/together-forever-brass/
+sent email
+ran at 2017-08-08 07:50:26.366384
+ran at 2017-08-08 08:00:26.831205
+ran at 2017-08-08 08:10:21.333867
+ran at 2017-08-08 08:20:25.006968
+ran at 2017-08-08 08:30:26.117470
+ran at 2017-08-08 08:40:23.905725
+City Chic - Black https://paparazziaccessories.com/shop/products/city-chic-black/
+sent email
+ran at 2017-08-08 08:50:27.445800
+ran at 2017-08-08 09:00:24.597687
+ran at 2017-08-08 09:10:21.924241
+Desert Drifter - Blue https://paparazziaccessories.com/shop/products/desert-drifter-blue/
+Native Nature - Brass https://paparazziaccessories.com/shop/products/native-nature-brass/
+sent email
+ran at 2017-08-08 09:20:27.982097
+Its HEART To Believe - Black https://paparazziaccessories.com/shop/products/its-heart-to-believe-black/
+With All Your Heart - Green https://paparazziaccessories.com/shop/products/with-all-your-heart-green/
+Palm Beach Party - Green https://paparazziaccessories.com/shop/products/palm-beach-party-green/
+sent email
+ran at 2017-08-08 09:30:28.321109
+Wherever Your Heart Takes You - Red https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-red/
+Lights! Camera! Action! https://paparazziaccessories.com/shop/products/elegant-black-and-white-blockbuster-bracelet/
+City Chic - Black https://paparazziaccessories.com/shop/products/city-chic-black/
+sent email
+ran at 2017-08-08 09:40:29.210124
+GLITZY Business - Black https://paparazziaccessories.com/shop/products/glitzy-business-black/
+You Hold The Key - Blue https://paparazziaccessories.com/shop/products/you-hold-the-key-blue/
+sent email
+ran at 2017-08-08 09:50:26.240614
+Dont Worry, BEACH Happy - Yellow https://paparazziaccessories.com/shop/products/dont-worry-beach-happy-yellow/
+The Shape Of You - Black https://paparazziaccessories.com/shop/products/the-shape-of-you-black/
+sent email
+ran at 2017-08-08 10:00:30.687903
+You Hold The Key - Blue https://paparazziaccessories.com/shop/products/you-hold-the-key-blue/
+Egyptian Etiquette - Brass https://paparazziaccessories.com/shop/products/egyptian-etiquette-brass/
+Egyptian Etiquette - Copper https://paparazziaccessories.com/shop/products/egyptian-etiquette-copper/
+sent email
+ran at 2017-08-08 10:10:25.957065
+Keep Ballin - Gold https://paparazziaccessories.com/shop/products/keep-ballin-gold/
+sent email
+ran at 2017-08-08 10:20:27.289500
+Absolutely Radiant - Silver https://paparazziaccessories.com/shop/products/absolutely-radiant-silver/
+sent email
+ran at 2017-08-08 10:30:28.509261
+NEST In Peace - Silver https://paparazziaccessories.com/shop/products/nest-in-peace-silver/
+sent email
+ran at 2017-08-08 10:40:24.138910
+ran at 2017-08-08 10:50:21.831881
+ran at 2017-08-08 11:00:24.633646
+ran at 2017-08-08 11:10:23.137129
+ran at 2017-08-08 11:20:22.115076
+ran at 2017-08-08 11:30:21.975876
+ran at 2017-08-08 11:40:22.403519
+ran at 2017-08-08 11:50:22.059844
+ran at 2017-08-08 12:00:25.893624
+ran at 2017-08-08 12:10:20.177483
+ran at 2017-08-08 12:20:24.012016
+Tiny Heartbeats - Silver https://paparazziaccessories.com/shop/products/tiny-heartbeats-silver/
+sent email
+ran at 2017-08-08 12:30:26.815726
+ran at 2017-08-08 12:40:21.107243
+ran at 2017-08-08 12:50:28.395308
+ran at 2017-08-08 13:00:21.877243
+ran at 2017-08-08 13:10:24.768183
+Nothing But HEARTBEAT - Silver https://paparazziaccessories.com/shop/products/nothing-but-heartbeat-silver/
+sent email
+ran at 2017-08-08 13:20:27.103962
+ran at 2017-08-08 13:30:27.552187
+ran at 2017-08-08 13:40:26.397836
+ran at 2017-08-08 13:50:26.650431
+ran at 2017-08-08 14:00:23.112923
+Love Is Everywhere - White https://paparazziaccessories.com/shop/products/love-is-everywhere-white/
+sent email
+ran at 2017-08-08 14:10:26.672564
+ran at 2017-08-08 14:20:23.662815
+ran at 2017-08-08 14:30:28.037462
+ran at 2017-08-08 14:40:23.046257
+ran at 2017-08-08 14:50:23.087422
+ran at 2017-08-08 15:00:23.246541
+Flutter Fashion - White https://paparazziaccessories.com/shop/products/flutter-fashion-white/
+sent email
+ran at 2017-08-08 15:10:27.175823
+Everyones A Star - Black https://paparazziaccessories.com/shop/products/everyones-a-star-black/
+Shes A Beast - Black https://paparazziaccessories.com/shop/products/shes-a-beast-black/
+Star Power - White https://paparazziaccessories.com/shop/products/star-power-white/
+On DIVA Ground - Brass https://paparazziaccessories.com/shop/products/on-diva-ground-brass/
+Dare To Be Different - Black https://paparazziaccessories.com/shop/products/dare-to-be-different-black/
+Rise Of Rome - Brass https://paparazziaccessories.com/shop/products/rise-of-rome-brass/
+Honolulu Hula - Blue https://paparazziaccessories.com/shop/products/honolulu-hula-blue/
+Rainforest Radiance - Blue https://paparazziaccessories.com/shop/products/rainforest-radiance-blue/
+Point Of Perfection - Copper https://paparazziaccessories.com/shop/products/point-of-perfection-copper/
+Adventure Queen - Silver https://paparazziaccessories.com/shop/products/adventure-queen-silver/
+Make Like A Tree... - Black https://paparazziaccessories.com/shop/products/make-like-a-tree-black/
+Let There Be SPOTLIGHT - Black https://paparazziaccessories.com/shop/products/let-there-be-spotlight-black/
+With All Your Heart - Blue https://paparazziaccessories.com/shop/products/with-all-your-heart-blue/
+Mystifying - Gold https://paparazziaccessories.com/shop/products/mystifying-gold/
+RAIN Supreme - Gold https://paparazziaccessories.com/shop/products/rain-supreme-gold/
+Rainbow Radiance - Green https://paparazziaccessories.com/shop/products/rainbow-radiance-green/
+Beach Days - Multi https://paparazziaccessories.com/shop/products/beach-days-multi/
+Shimmering Streams - White https://paparazziaccessories.com/shop/products/shimmering-streams-white/
+Pretty In Panama - White https://paparazziaccessories.com/shop/products/pretty-in-panama-white/
+Bouquet Botanical - White https://paparazziaccessories.com/shop/products/bouquet-botanical-white/
+HUEs That Girl? - Red https://paparazziaccessories.com/shop/products/hues-that-girl-red/
+SPRING It On - Silver https://paparazziaccessories.com/shop/products/spring-it-on-silver/
+Keep On Sparkling - Brown Post https://paparazziaccessories.com/shop/products/keep-on-sparkling-brown-post/
+Mountain Shine - Silver Post https://paparazziaccessories.com/shop/products/mountain-shine-silver-post/
+Dont Give A GLAM - Green https://paparazziaccessories.com/shop/products/dont-give-a-glam-green/
+Happily FOREVER After - Orange https://paparazziaccessories.com/shop/products/happily-forever-after-orange/
+Braided Bayou https://paparazziaccessories.com/shop/products/braided-bayou/
+Dream Bigger - Gold https://paparazziaccessories.com/shop/products/dream-bigger-gold/
+sent email
+ran at 2017-08-08 15:20:37.637868
+Wherever Your Heart Takes You - Red https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-red/
+Lights! Camera! Action! https://paparazziaccessories.com/shop/products/elegant-black-and-white-blockbuster-bracelet/
+sent email
+ran at 2017-08-08 15:30:38.942070
+ran at 2017-08-08 16:40:24.108757
+Love to Love - Copper https://paparazziaccessories.com/shop/products/love-to-love-copper/
+sent email
+ran at 2017-08-08 16:51:44.010644
+ran at 2017-08-08 21:30:21.866335
+ran at 2017-08-08 21:40:20.903326
+ran at 2017-08-08 21:50:21.318634
+ran at 2017-08-08 22:00:23.151339
+Love to Love - Copper https://paparazziaccessories.com/shop/products/love-to-love-copper/
+sent email
+ran at 2017-08-08 22:11:39.645760
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 148, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 26, in main
+    pages = get_pages(url)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 48, in get_pages
+    html = requests.get(url).text
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/requests/api.py", line 72, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/requests/sessions.py", line 502, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/requests/sessions.py", line 612, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='paparazziaccessories.com', port=443): Max retries exceeded with url: /shop/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x1057fddd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+Hypnotized - Gold https://paparazziaccessories.com/shop/products/hypnotized-gold/
+Fishing for Compliments - Silver https://paparazziaccessories.com/shop/products/fishing-for-compliments-blockbuster-necklace/
+Roadside Picnic - Red https://paparazziaccessories.com/shop/products/roadside-picnic/
+sent email
+ran at 2017-08-09 07:30:25.310820
+ran at 2017-08-09 07:40:23.724096
+Dream Bigger - Gold https://paparazziaccessories.com/shop/products/dream-bigger-gold/
+sent email
+ran at 2017-08-09 07:50:22.192460
+Wherever Your Heart Takes You - Orange https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-orange/
+Wherever Your Heart Takes You - Red https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-red/
+sent email
+ran at 2017-08-09 08:00:22.590214
+Runway Shine - Brown https://paparazziaccessories.com/shop/products/runway-shine-brown/
+Summer Spree - Purple https://paparazziaccessories.com/shop/products/summer-spree-purple/
+Send In The Sparkle! - White https://paparazziaccessories.com/shop/products/send-in-the-sparkle-white/
+Your Heart Knows The Way - Green https://paparazziaccessories.com/shop/products/your-heart-knows-the-way-green/
+sent email
+ran at 2017-08-09 08:10:23.377536
+Love to Love - Copper https://paparazziaccessories.com/shop/products/love-to-love-copper/
+Dream Bigger - Gold https://paparazziaccessories.com/shop/products/dream-bigger-gold/
+sent email
+ran at 2017-08-09 08:20:22.990344
+Wherever Your Heart Takes You - Orange https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-orange/
+Wherever Your Heart Takes You - Red https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-red/
+sent email
+ran at 2017-08-09 08:30:23.092366
+ran at 2017-08-09 08:40:20.590573
+Lights! Camera! Action! https://paparazziaccessories.com/shop/products/elegant-black-and-white-blockbuster-bracelet/
+sent email
+ran at 2017-08-09 08:50:23.072649
+ran at 2017-08-09 09:00:23.415461
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 153, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 36, in main
+    store_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 111, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 464, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 374, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1105, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+    raise original_exception
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.date_found_sold' in 'field list'")
+Pretty GLAM Quick - Black https://paparazziaccessories.com/shop/products/pretty-glam-quick-black/
+So Victorian - Black https://paparazziaccessories.com/shop/products/so-victorian-black/
+Everyones A Star - Black https://paparazziaccessories.com/shop/products/everyones-a-star-black/
+Shes A Beast - Black https://paparazziaccessories.com/shop/products/shes-a-beast-black/
+Versed In Glitter - Brown https://paparazziaccessories.com/shop/products/versed-in-glitter-brown/
+Summer Rose - Brown https://paparazziaccessories.com/shop/products/summer-rose-brown/
+Infinite Beauty - Copper https://paparazziaccessories.com/shop/products/infinite-beauty-copper/
+Just The Way You Are - Copper https://paparazziaccessories.com/shop/products/just-the-way-you-are-copper/
+Just The Way You Are - Gold https://paparazziaccessories.com/shop/products/just-the-way-you-are-gold/
+Beyond The Stars - Gold https://paparazziaccessories.com/shop/products/beyond-the-stars-gold/
+Love Alert - Pink https://paparazziaccessories.com/shop/products/love-alert-pink/
+A GLEAM Act - Pink https://paparazziaccessories.com/shop/products/a-gleam-act-pink/
+Modestly Metro - Silver https://paparazziaccessories.com/shop/products/modestly-metro-silver/
+Infinite Beauty - Silver https://paparazziaccessories.com/shop/products/infinite-beauty-silver/
+What A Gem - White https://paparazziaccessories.com/shop/products/what-a-gem-white/
+Summer Rose - White https://paparazziaccessories.com/shop/products/summer-rose-white/
+Star Power - White https://paparazziaccessories.com/shop/products/star-power-white/
+Chasing A GLEAM - White https://paparazziaccessories.com/shop/products/chasing-a-gleam-white/
+On DIVA Ground - Brass https://paparazziaccessories.com/shop/products/on-diva-ground-brass/
+Miss YOU-niverse - Silver  https://paparazziaccessories.com/shop/products/miss-you-niverse-silver/
+SCARFed for Attention - Gunmetal https://paparazziaccessories.com/shop/products/scarfed-for-attention-gunmetal/
+Dare To Be Different - Black https://paparazziaccessories.com/shop/products/dare-to-be-different-black/
+Rise Of Rome - Brass https://paparazziaccessories.com/shop/products/rise-of-rome-brass/
+One RING Leads To Another - Copper https://paparazziaccessories.com/shop/products/one-ring-leads-to-another-copper/
+SCARFed for Attention - Gold https://paparazziaccessories.com/shop/products/scarf-necklace-gold-blockbuster-necklace/
+SCARFed for Attention - Silver https://paparazziaccessories.com/shop/products/scarf-necklace-silver-blockbuster-necklace/
+In Some Way, Shape, Or Form - Silver https://paparazziaccessories.com/shop/products/in-some-way-shape-or-form-silver/
+In Good Glazes - Black https://paparazziaccessories.com/shop/products/black-glaze-blockbuster-necklace/
+Total Eclipse Of the Heart https://paparazziaccessories.com/shop/products/moon-charm-with-silver-pearls-blockbuster-nec/
+Comet Chase - Black https://paparazziaccessories.com/shop/products/comet-chase-black/
+In Good Glazes - Blue https://paparazziaccessories.com/shop/products/chunky-blue-glaze-blockbuster-necklace/
+All The Trimmings - Brown https://paparazziaccessories.com/shop/products/brown-ribbon-and-pearls-blockbuster-necklace/
+Enmeshed In Elegance - Brown https://paparazziaccessories.com/shop/products/silver-mesh-balls-and-brown-pearls-blockbuste/
+In Good Glazes - Peach https://paparazziaccessories.com/shop/products/peach-glaze-blockbuster-necklace/
+A Warm Welcome https://paparazziaccessories.com/shop/products/a-warm-welcome/
+Diva Dynasty - Gold https://paparazziaccessories.com/shop/products/diva-dynasty-gold/
+A Golden Spell https://paparazziaccessories.com/shop/products/a-golden-spell/
+Hypnotized - Gold https://paparazziaccessories.com/shop/products/hypnotized-gold/
+Fishing for Compliments- Gold  https://paparazziaccessories.com/shop/products/fishing-for-compliments-gold/
+Cheers To Tears - Multi https://paparazziaccessories.com/shop/products/cheers-to-tears-multi/
+All The Trimmings - Pink https://paparazziaccessories.com/shop/products/pink-ribbon-and-pearls-blockbuster-necklace/
+All The Trimmings - Purple https://paparazziaccessories.com/shop/products/purple-ribbon-with-purple-pearls-blockbuster-/
+Hypnotized - Silver https://paparazziaccessories.com/shop/products/p2re-svxx-002xx/
+Fishing for Compliments - Silver https://paparazziaccessories.com/shop/products/fishing-for-compliments-blockbuster-necklace/
+LAYER Down The Law! - Silver https://paparazziaccessories.com/shop/products/layer-down-the-law-silver/
+All The Trimmings - Ivory https://paparazziaccessories.com/shop/products/ivory-ribbon-and-pearls-blockbuster-necklace/
+Designated Diva - White https://paparazziaccessories.com/shop/products/ivory-pearls-and-silver-chain-cluster-blockbu/
+Hollywood Hills https://paparazziaccessories.com/shop/products/hollywood-hills/
+Love Story https://paparazziaccessories.com/shop/products/love-story/
+Honolulu Hula - Blue https://paparazziaccessories.com/shop/products/honolulu-hula-blue/
+Colorfully Courageous - Brass https://paparazziaccessories.com/shop/products/colorfully-courageous-brass/
+Feather Weather - Brass https://paparazziaccessories.com/shop/products/feather-weather-brass/
+Boot Scootin Boogie - Green https://paparazziaccessories.com/shop/products/boot-scootin-boogie-green/
+Caribbean Carnival - Green https://paparazziaccessories.com/shop/products/caribbean-carnival-green/
+Extraordinary Explorer - Orange https://paparazziaccessories.com/shop/products/extraordinary-explorer-orange/
+I Know It ZEN I See It - Orange https://paparazziaccessories.com/shop/products/i-know-it-zen-i-see-it-orange/
+Caribbean Carnival - Pink https://paparazziaccessories.com/shop/products/caribbean-carnival-pink/
+Mesa View - Red https://paparazziaccessories.com/shop/products/mesa-view-red/
+Texas Tempest - Yellow https://paparazziaccessories.com/shop/products/texas-tempest-yellow/
+Boot Scootin Boogie - Yellow https://paparazziaccessories.com/shop/products/boot-scootin-boogie-yellow/
+Desert Drifter - Brass https://paparazziaccessories.com/shop/products/desert-drifter-brass/
+Point Of Perfection - Copper https://paparazziaccessories.com/shop/products/point-of-perfection-copper/
+Fighting SPEAR-it - Gold https://paparazziaccessories.com/shop/products/fighting-spear-it-gold/
+A Free SPEAR-it - Pink https://paparazziaccessories.com/shop/products/a-free-spear-it-pink/
+Roman Empress - Silver https://paparazziaccessories.com/shop/products/roman-empress-silver/
+Adventure Queen - Silver https://paparazziaccessories.com/shop/products/adventure-queen-silver/
+Sonoran Sunset - Yellow https://paparazziaccessories.com/shop/products/sonoran-sunset-yellow/
+Charmed, I Am Sure - Black https://paparazziaccessories.com/shop/products/charmed-i-am-sure-black/
+The Earth Laughs In Flowers - Black https://paparazziaccessories.com/shop/products/the-earth-laughs-in-flowers-black/
+Let There Be SPOTLIGHT - Black https://paparazziaccessories.com/shop/products/let-there-be-spotlight-black/
+Twinkle At Twilight - Blue https://paparazziaccessories.com/shop/products/twinkle-at-twilight-blue/
+Charmed, I Am Sure - Brown https://paparazziaccessories.com/shop/products/charmed-i-am-sure-brown/
+Painted Horizons - Brown https://paparazziaccessories.com/shop/products/painted-horizons-brown/
+Sweet GLEAMS - Brown  https://paparazziaccessories.com/shop/products/sweet-gleams-brown/
+Fleur de Flirt - Copper https://paparazziaccessories.com/shop/products/fleur-de-flirt-copper/
+Twinkle At Twilight - Copper https://paparazziaccessories.com/shop/products/twinkle-at-twilight-copper/
+RAIN Supreme - Gold https://paparazziaccessories.com/shop/products/rain-supreme-gold/
+Roam On - Green https://paparazziaccessories.com/shop/products/roam-on-green/
+Rainbow Radiance - Green https://paparazziaccessories.com/shop/products/rainbow-radiance-green/
+Beach Days - Multi https://paparazziaccessories.com/shop/products/beach-days-multi/
+Summer Skies - Orange https://paparazziaccessories.com/shop/products/summer-skies-orange/
+Twinkle At Twilight - Pink https://paparazziaccessories.com/shop/products/twinkle-at-twilight-pink/
+Comet Chase - Pink https://paparazziaccessories.com/shop/products/comet-chase-pink/
+Whats Not To Love? - Pink https://paparazziaccessories.com/shop/products/whats-not-to-love-pink/
+Extraordinary Explorer - Red https://paparazziaccessories.com/shop/products/extraordinary-explorer-red/
+Love Lullaby - Red https://paparazziaccessories.com/shop/products/love-lullaby-red/
+Painted Horizons - Red https://paparazziaccessories.com/shop/products/painted-horizons-red/
+The Earth Laughs In Flowers - Silver https://paparazziaccessories.com/shop/products/the-earth-laughs-in-flowers-silver/
+BLOOM Or Bust - Silver https://paparazziaccessories.com/shop/products/bloom-or-bust-silver/
+Summer Coast - White https://paparazziaccessories.com/shop/products/summer-coast-white/
+Shimmering Streams - White https://paparazziaccessories.com/shop/products/shimmering-streams-white/
+Pretty In Panama - White https://paparazziaccessories.com/shop/products/pretty-in-panama-white/
+Dont Worry, BEACH Happy - Yellow https://paparazziaccessories.com/shop/products/dont-worry-beach-happy-yellow/
+Frozen In Fall - Yellow https://paparazziaccessories.com/shop/products/frozen-in-fall-yellow/
+Badaboom! - Black https://paparazziaccessories.com/shop/products/badaboom-black/
+Head Over Shimmer - Copper https://paparazziaccessories.com/shop/products/head-over-shimmer-copper/
+GLEAM Chaser - Gold https://paparazziaccessories.com/shop/products/gleam-chaser-gold/
+I Feel REFINED - Gold https://paparazziaccessories.com/shop/products/i-feel-refined-gold/
+Pretty As A Bow - Green https://paparazziaccessories.com/shop/products/pretty-as-a-bow-green/
+Castle On The Hill - Red https://paparazziaccessories.com/shop/products/castle-on-the-hill-red/
+Send In The Cavalry - White https://paparazziaccessories.com/shop/products/send-in-the-cavalry-white/
+Bouquet Botanical - White https://paparazziaccessories.com/shop/products/bouquet-botanical-white/
+The Next WEST Thing - Black https://paparazziaccessories.com/shop/products/the-next-west-thing-black/
+Natural Habitat - Black https://paparazziaccessories.com/shop/products/natural-habitat-black/
+A Tribal Affair - Brown https://paparazziaccessories.com/shop/products/a-tribal-affair-brown/
+Boomin and Bloomin - Brown https://paparazziaccessories.com/shop/products/boomin-and-bloomin-brown/
+Boomin and Bloomin - Orange https://paparazziaccessories.com/shop/products/boomin-and-bloomin-orange/
+A Rolling SANDSTONE - Pink https://paparazziaccessories.com/shop/products/a-rolling-sandstone-pink/
+River Stone Radiance - Red https://paparazziaccessories.com/shop/products/river-stone-radiance-red/
+Summer Hideaway - Gold https://paparazziaccessories.com/shop/products/summer-hideaway-gold/
+Make Your Own Sunshine - Purple https://paparazziaccessories.com/shop/products/make-your-own-sunshine-purple/
+Vantage Point - Silver https://paparazziaccessories.com/shop/products/vantage-point-silver/
+Its All SUN And Games - Silver https://paparazziaccessories.com/shop/products/its-all-sun-and-games-silver/
+Have A Little Faith - Brass https://paparazziaccessories.com/shop/products/have-a-little-faith-brass/
+Make Today Count - Brass https://paparazziaccessories.com/shop/products/make-today-count-brass/
+Lookin Fierce - Copper https://paparazziaccessories.com/shop/products/lookin-fierce-copper/
+Be Happy - Gold https://paparazziaccessories.com/shop/products/be-happy-gold/
+Fairytales Do Come True - Black https://paparazziaccessories.com/shop/products/fairytales-do-come-true-black/
+Desert Dahlia - Blue https://paparazziaccessories.com/shop/products/desert-dahlia-blue/
+How DAISY Is That? - Blue  https://paparazziaccessories.com/shop/products/how-daisy-is-that-blue/
+Fiji Flowers - Brown https://paparazziaccessories.com/shop/products/fiji-flowers-brown/
+Sparrow Sparkle - Brown https://paparazziaccessories.com/shop/products/sparrow-sparkle-brown/
+Master Key - Copper https://paparazziaccessories.com/shop/products/master-key-copper/
+Never Too Old For Fairytales - Gold https://paparazziaccessories.com/shop/products/never-too-old-for-fairytales-gold/
+Desert Dahlia - Orange https://paparazziaccessories.com/shop/products/desert-dahlia-orange/
+Timeless Sophistication - Pink https://paparazziaccessories.com/shop/products/timeless-sophistication-pink/
+Summer Spree - Purple https://paparazziaccessories.com/shop/products/summer-spree-purple/
+Timeless Sophistication - Purple https://paparazziaccessories.com/shop/products/timeless-sophistication-purple/
+How DAISY Is That? - Purple https://paparazziaccessories.com/shop/products/how-daisy-is-that-purple/
+SPIN There, Done That - Purple https://paparazziaccessories.com/shop/products/spin-there-done-that-purple/
+Fairytales Do Come True - Red https://paparazziaccessories.com/shop/products/fairytales-do-come-true-red/
+HUEs That Girl? - Red https://paparazziaccessories.com/shop/products/hues-that-girl-red/
+Will You BEAD My Girl? - Red https://paparazziaccessories.com/shop/products/will-you-bead-my-girl-red/
+Castaway Cay - Red https://paparazziaccessories.com/shop/products/castaway-cay-red/
+Color Me Courageous - White https://paparazziaccessories.com/shop/products/color-me-courageous-white/
+Timeless Sophistication - White https://paparazziaccessories.com/shop/products/timeless-sophistication-white/
+Master Of REFINED Arts - Black Clip-On https://paparazziaccessories.com/shop/products/master-of-refined-arts-black-clip-on/
+Royal CHAIN - Black Clip-On https://paparazziaccessories.com/shop/products/royal-chain-black-clip-on/
+Inclined To Shine - Blue Clip-On https://paparazziaccessories.com/shop/products/inclined-to-shine-blue-clip-on/
+Star-Studded Sparkle - Pink Clip-On https://paparazziaccessories.com/shop/products/star-studded-sparkle-pink-clip-on/
+Toplinear - White Clip-On https://paparazziaccessories.com/shop/products/toplinear-white-clip-on/
+Dancing Genie - White https://paparazziaccessories.com/shop/products/dancing-genie-white/
+Portland Party - White https://paparazziaccessories.com/shop/products/portland-party-white/
+GLITZY By Association - Black https://paparazziaccessories.com/shop/products/glitzy-by-association-gunmetal-1891/
+The All-Star - Black https://paparazziaccessories.com/shop/products/the-all-star-black/
+Wind It Up! - Black https://paparazziaccessories.com/shop/products/wind-it-up-black/
+Jam Session - Brass https://paparazziaccessories.com/shop/products/jam-session-brass/
+Western Diamondback - Copper https://paparazziaccessories.com/shop/products/western-diamondback-copper/
+Dont Sweat the Small Stuff - Copper https://paparazziaccessories.com/shop/products/dont-sweat-the-small-stuff-copper/
+Chasing Daylight - Rose Gold https://paparazziaccessories.com/shop/products/chasing-daylight-rose-gold/
+Jam Session - Gold https://paparazziaccessories.com/shop/products/jam-session-gold/
+The Major Leagues - Gold https://paparazziaccessories.com/shop/products/the-major-leagues-gold/
+Whats The Occasion? - Pink https://paparazziaccessories.com/shop/products/whats-the-occasion-pink/
+SPRING It On - Silver https://paparazziaccessories.com/shop/products/spring-it-on-silver/
+Still Shining - Silver https://paparazziaccessories.com/shop/products/still-shining-silver/
+Maybe Shes Born With It - Blue Post https://paparazziaccessories.com/shop/products/maybe-shes-born-with-it-blue-post/
+Keep On Sparkling - Brown Post https://paparazziaccessories.com/shop/products/keep-on-sparkling-brown-post/
+Mountain Shine - Silver Post https://paparazziaccessories.com/shop/products/mountain-shine-silver-post/
+Red Carpet Romance - Black https://paparazziaccessories.com/shop/products/red-carpet-romance-black/
+I Dream Of Deserts - Black https://paparazziaccessories.com/shop/products/i-dream-of-deserts-black/
+May All Your Wishes Come True - Black https://paparazziaccessories.com/shop/products/may-all-your-wishes-come-true-black/
+Radiant Roses - Blue https://paparazziaccessories.com/shop/products/radiant-roses-blue/
+Im So Fancy - Pink https://paparazziaccessories.com/shop/products/im-so-fancy-pink/
+Dressed In Radiance - Silver https://paparazziaccessories.com/shop/products/dressed-in-radiance-silver/
+I Think I GLAM - Silver https://paparazziaccessories.com/shop/products/i-think-i-glam-silver/
+Moonlight Over Paris - White https://paparazziaccessories.com/shop/products/moonlight-over-paris-white/
+Magic In The Air - White https://paparazziaccessories.com/shop/products/magic-in-the-air-white/
+Dakota Dreams - Black https://paparazziaccessories.com/shop/products/dakota-dreams-black/
+Sunny Sunstones - Orange https://paparazziaccessories.com/shop/products/sunny-sunstones-orange/
+FLIGHT Of Day - White https://paparazziaccessories.com/shop/products/flight-of-day-white/
+Put On Your Boots - Brass https://paparazziaccessories.com/shop/products/put-on-your-boots-brass/
+Sahara Storms - Red https://paparazziaccessories.com/shop/products/sahara-storms-red/
+Viva La Vida - Red https://paparazziaccessories.com/shop/products/viva-la-vida-red/
+Guam Gardens - Copper https://paparazziaccessories.com/shop/products/guam-gardens-copper/
+Sparkling Soiree - Green https://paparazziaccessories.com/shop/products/sparkling-soiree-green/
+Dont Give A GLAM - Green https://paparazziaccessories.com/shop/products/dont-give-a-glam-green/
+Lost At Sea - Green https://paparazziaccessories.com/shop/products/lost-at-sea-green/
+Bet Your Bottom SAND-Dollar - Orange https://paparazziaccessories.com/shop/products/bet-your-bottom-sand-dollar-orange/
+Sweep Me Off My Feet - Pink https://paparazziaccessories.com/shop/products/sweep-me-off-my-feet-pink/
+Catch Some Sparkle - Pink https://paparazziaccessories.com/shop/products/catch-some-sparkle-pink/
+Lost At Sea - Silver https://paparazziaccessories.com/shop/products/lost-at-sea-silver/
+Its Raining, Its Pouring - White https://paparazziaccessories.com/shop/products/its-raining-its-pouring-white/
+Sparkling Soiree - White https://paparazziaccessories.com/shop/products/sparkling-soiree-white/
+Dont Give A GLAM - White https://paparazziaccessories.com/shop/products/dont-give-a-glam-white/
+Sweep Me Off My Feet - White https://paparazziaccessories.com/shop/products/sweep-me-off-my-feet-white/
+A Rose Is A Rose - Black https://paparazziaccessories.com/shop/products/a-rose-is-a-rose-black-5446/
+With A Little Help From My Friends - Black https://paparazziaccessories.com/shop/products/with-a-little-help-from-my-friends-black/
+Sweet Talk - Brown https://paparazziaccessories.com/shop/products/sweet-talk-brown/
+A Fine Romance - Brown https://paparazziaccessories.com/shop/products/a-fine-romance-brown-8958/
+Dance The Polka - Green https://paparazziaccessories.com/shop/products/dance-the-polka-green/
+Hidden Garden - Green https://paparazziaccessories.com/shop/products/hidden-garden-green/
+Mad About You https://paparazziaccessories.com/shop/products/mad-about-you/
+Central Park - Silver https://paparazziaccessories.com/shop/products/central-park-silver/
+Without Fail - Silver https://paparazziaccessories.com/shop/products/without-fail-silver/
+Roadside Picnic - Red https://paparazziaccessories.com/shop/products/roadside-picnic/
+Meet Your Match - Red https://paparazziaccessories.com/shop/products/meet-your-match-red/
+Drama, Drama, Drama! - Silver https://paparazziaccessories.com/shop/products/drama-drama-drama-silver/
+Queens Lace - Brown https://paparazziaccessories.com/shop/products/queens-lace-brown/
+Party Like Its 1999 https://paparazziaccessories.com/shop/products/party-like-its-1999-8533/
+Damsel in Distress - Red https://paparazziaccessories.com/shop/products/damsel-in-distress-red/
+Sweet Kisses - Brown https://paparazziaccessories.com/shop/products/sweet-kisses-brown/
+Summer Pom Poms - Orange https://paparazziaccessories.com/shop/products/summer-pom-poms-orange/
+Moonlight On The Nile - Black https://paparazziaccessories.com/shop/products/moonlight-on-the-nile-black/
+This Time Around - Blue https://paparazziaccessories.com/shop/products/this-time-around-blue/
+Leave A Little Sparkle - Brass https://paparazziaccessories.com/shop/products/leave-a-little-sparkle-brass/
+Do What Makes You Happy https://paparazziaccessories.com/shop/products/do-what-makes-you-happy/
+Street Shimmer - Copper https://paparazziaccessories.com/shop/products/street-shimmer-copper/
+Casually Colorful - Pink https://paparazziaccessories.com/shop/products/casually-colorful-pink/
+This Time Around - Purple https://paparazziaccessories.com/shop/products/this-time-around-purple/
+Urban Refinement - Silver https://paparazziaccessories.com/shop/products/urban-refinement-silver/
+Rock Legend - Brown https://paparazziaccessories.com/shop/products/rock-legend-brown/
+I Love Rock N Roll - Green https://paparazziaccessories.com/shop/products/i-love-rock-n-roll-green/
+Hit the Lights - Green https://paparazziaccessories.com/shop/products/hit-the-lights-green/
+I Speak Glitter - Green https://paparazziaccessories.com/shop/products/i-speak-glitter-green/
+Happily FOREVER After - Orange https://paparazziaccessories.com/shop/products/happily-forever-after-orange/
+First Class Shimmer - Silver https://paparazziaccessories.com/shop/products/first-class-shimmer-silver-3243/
+Go The X-tra Mile https://paparazziaccessories.com/shop/products/go-the-x-tra-mile/
+Slim Pickings - White https://paparazziaccessories.com/shop/products/slim-pickings-white/
+Name Your Price - Yellow https://paparazziaccessories.com/shop/products/name-your-price-yellow/
+River Rapids - Black https://paparazziaccessories.com/shop/products/river-rapids-black/
+Ring Girl - Black https://paparazziaccessories.com/shop/products/ring-girl-black/
+Team RINGLEADER - Copper https://paparazziaccessories.com/shop/products/team-ringleader-copper/
+Minimally Metro - Silver https://paparazziaccessories.com/shop/products/minimally-metro-silver/
+Street Style - Silver https://paparazziaccessories.com/shop/products/street-style-silver/
+Glaze of Glory - Black https://paparazziaccessories.com/shop/products/black-glaze-blockbuster-bracelet/
+GLITZY Business - Black https://paparazziaccessories.com/shop/products/glitzy-business-black/
+Shimmer Train - Black https://paparazziaccessories.com/shop/products/shimmer-train-black/
+Glaze of Glory - Blue https://paparazziaccessories.com/shop/products/chunky-blue-glaze-blockbuster-bracelet/
+All Cozied Up https://paparazziaccessories.com/shop/products/all-cozied-up/
+METRO-politan - Brass https://paparazziaccessories.com/shop/products/metro-politan-brass/
+Endless Excellence - Brass https://paparazziaccessories.com/shop/products/endless-excellence-brass/
+Time and Time Again - Copper https://paparazziaccessories.com/shop/products/time-and-time-again-copper/
+Endless Excellence - Gold https://paparazziaccessories.com/shop/products/endless-excellence-gold/
+Old Hollywood https://paparazziaccessories.com/shop/products/old-hollywood/
+I Do https://paparazziaccessories.com/shop/products/i-do/
+Girl Of My GLEAMS - White https://paparazziaccessories.com/shop/products/girl-of-my-gleams-white/
+Twinkling Times Square - White https://paparazziaccessories.com/shop/products/twinkling-times-square-white/
+Stomping Ground - Green https://paparazziaccessories.com/shop/products/stomping-ground-green/
+Mojave Rainbow - White https://paparazziaccessories.com/shop/products/mojave-rainbow-white/
+Give It A TRIBE - Brass https://paparazziaccessories.com/shop/products/give-it-a-tribe-brass/
+When In Waikiki - Silver https://paparazziaccessories.com/shop/products/when-in-waikiki-silver/
+Outlaw Club - Black https://paparazziaccessories.com/shop/products/outlaw-club-black/
+Together Forever - Black https://paparazziaccessories.com/shop/products/together-forever-black/
+Braided Bayou https://paparazziaccessories.com/shop/products/braided-bayou/
+Rugged Rebel - Brown https://paparazziaccessories.com/shop/products/rugged-rebel-brown/
+Start A Riot https://paparazziaccessories.com/shop/products/start-a-riot/
+Together Forever - Brass https://paparazziaccessories.com/shop/products/together-forever-brass/
+ZOO Little ZOO Late - Multi https://paparazziaccessories.com/shop/products/zoo-little-zoo-late-multi/
+A Leading FLIGHT - Yellow https://paparazziaccessories.com/shop/products/a-leading-flight-yellow/
+The Best Is Yet To Be - Copper https://paparazziaccessories.com/shop/products/the-best-is-yet-to-be-copper/
+Love to Love - Copper https://paparazziaccessories.com/shop/products/love-to-love-copper/
+Dream Bigger - Gold https://paparazziaccessories.com/shop/products/dream-bigger-gold/
+Wherever Your Heart Takes You - Orange https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-orange/
+Wherever Your Heart Takes You - Red https://paparazziaccessories.com/shop/products/wherever-your-heart-takes-you-red/
+Lights! Camera! Action! https://paparazziaccessories.com/shop/products/elegant-black-and-white-blockbuster-bracelet/
+City Chic - Black https://paparazziaccessories.com/shop/products/city-chic-black/
+ran at 2017-08-09 09:20:19.038029
+ran at 2017-08-09 09:30:22.807644
+ran at 2017-08-09 09:40:20.178991
+[]
+[]
+ran at 2017-08-09 09:50:21.897970
+[]
+ran at 2017-08-09 10:00:29.708756
+ran at 2017-08-09 10:10:20.398652
+ran at 2017-08-09 10:20:18.925269
+NEST In Peace - Silver https://paparazziaccessories.com/shop/products/nest-in-peace-silver/
+sent email
+ran at 2017-08-09 10:30:22.820508
+ran at 2017-08-09 10:40:21.207532
+Tiny Heartbeats - Silver https://paparazziaccessories.com/shop/products/tiny-heartbeats-silver/
+sent email
+ran at 2017-08-09 10:50:22.155659
+ran at 2017-08-09 11:00:20.854014
+Nothing But HEARTBEAT - Silver https://paparazziaccessories.com/shop/products/nothing-but-heartbeat-silver/
+sent email
+ran at 2017-08-09 11:10:31.075803
+ran at 2017-08-09 11:20:20.995682
+ran at 2017-08-09 11:30:24.439344
+ran at 2017-08-09 11:40:24.696604
+ran at 2017-08-09 11:50:20.882298
+ran at 2017-08-09 12:00:22.446620
+ran at 2017-08-09 12:10:18.874933
+ran at 2017-08-09 12:20:19.495140
+ran at 2017-08-09 12:30:17.717326
+ran at 2017-08-09 12:40:18.480791
+ran at 2017-08-09 12:50:18.859608
+ran at 2017-08-09 13:00:18.818629
+ran at 2017-08-09 13:10:17.412900
+ran at 2017-08-09 13:20:23.188300
+ran at 2017-08-09 13:30:24.303278
+ran at 2017-08-09 13:40:22.082267
+ran at 2017-08-09 13:50:28.484391
+ran at 2017-08-09 14:00:24.263406
+ran at 2017-08-09 14:10:24.244611
+ran at 2017-08-09 14:20:24.848480
+ran at 2017-08-09 14:30:24.323605
+ran at 2017-08-09 14:40:21.783823
+Tropical Tango - Black https://paparazziaccessories.com/shop/products/tropical-tango-black/
+Summer Coast - Black https://paparazziaccessories.com/shop/products/summer-coast-black/
+Slam Dunk - Black https://paparazziaccessories.com/shop/products/slam-dunk-black/
+sent email
+ran at 2017-08-09 14:50:27.900932
+Living Legend - Silver https://paparazziaccessories.com/shop/products/living-legend-silver/
+Stone Dwellers - Blue https://paparazziaccessories.com/shop/products/stone-dwellers-blue/
+Ice Storm - Blue https://paparazziaccessories.com/shop/products/ice-storm-blue/
+Caribbean Catch - Blue https://paparazziaccessories.com/shop/products/caribbean-catch-blue/
+Courage To Soar - Brass https://paparazziaccessories.com/shop/products/courage-to-soar-brass/
+Extraordinary Explorer - Green https://paparazziaccessories.com/shop/products/extraordinary-explorer-green/
+Tiki Tango - Green https://paparazziaccessories.com/shop/products/tiki-tango-green/
+Ice Storm - Orange https://paparazziaccessories.com/shop/products/ice-storm-orange-3293/
+Western Walkabout - Pink https://paparazziaccessories.com/shop/products/western-walkabout-pink/
+Living The Tropical Life - Red https://paparazziaccessories.com/shop/products/living-the-tropical-life-red/
+Summer Is Calling My Name - Black https://paparazziaccessories.com/shop/products/summer-is-calling-my-name-black/
+Window To The World - Blue https://paparazziaccessories.com/shop/products/window-to-the-world-blue/
+More Mimosas - Silver https://paparazziaccessories.com/shop/products/more-mimosas-silver/
+Love Lullaby - White https://paparazziaccessories.com/shop/products/love-lullaby-white/
+Adventures Are Forever - White https://paparazziaccessories.com/shop/products/adventures-are-forever-white/
+Runway Shine - Yellow https://paparazziaccessories.com/shop/products/runway-shine-yellow/
+Makin Money - Silver https://paparazziaccessories.com/shop/products/makin-money-silver/
+Champion Sparkle - Blue https://paparazziaccessories.com/shop/products/champion-sparkle-blue/
+Princess Of My Fairytale - Copper https://paparazziaccessories.com/shop/products/princess-of-my-fairytale-copper/
+Tampa Tango - Gold https://paparazziaccessories.com/shop/products/tampa-tango-gold/
+Its Not Easy Being A Princess - Pink https://paparazziaccessories.com/shop/products/its-not-easy-being-a-princess-pink/
+Natural Habitat - White https://paparazziaccessories.com/shop/products/natural-habitat-white/
+Cloudy Days - Brass https://paparazziaccessories.com/shop/products/cloudy-days-brass/
+Raleigh Radiance - Pink https://paparazziaccessories.com/shop/products/raleigh-radiance-pink/
+Sweep Me Off My Feet - Black https://paparazziaccessories.com/shop/products/sweep-me-off-my-feet-black/
+Glitter Fever - Blue https://paparazziaccessories.com/shop/products/glitter-fever-blue/
+Get Your Sparkle On - White https://paparazziaccessories.com/shop/products/get-your-sparkle-on-white/
+ZOO Much Of A Good Thing - White https://paparazziaccessories.com/shop/products/zoo-much-of-a-good-thing-white/
+Beach Wedding - Black https://paparazziaccessories.com/shop/products/beach-wedding-black/
+sent email
+ran at 2017-08-09 15:00:57.585207
+Dancing Genie - Silver https://paparazziaccessories.com/shop/products/dancing-genie-silver/
+Truly Kissable - Silver Post https://paparazziaccessories.com/shop/products/truly-kissable-silver-post/
+Sacramento Sparkle - Black https://paparazziaccessories.com/shop/products/sacramento-sparkle-black/
+Bali Bliss - Brown https://paparazziaccessories.com/shop/products/bali-bliss-brown/
+Use Your Wings - Brass https://paparazziaccessories.com/shop/products/use-your-wings-brass/
+ROME Sweet ROME - Gold https://paparazziaccessories.com/shop/products/rome-sweet-rome-gold/
+Stolen Hearts - Brass https://paparazziaccessories.com/shop/products/stolen-hearts-brass/
+Away We CONGO! - Multi https://paparazziaccessories.com/shop/products/away-we-congo-multi/
+Raining Rainbows - Red https://paparazziaccessories.com/shop/products/raining-rainbows-red/
+Singing In Singapore - Yellow https://paparazziaccessories.com/shop/products/singing-in-singapore-yellow/
+Glitz and Glamor - Black https://paparazziaccessories.com/shop/products/glitz-and-glamor-black/
+Labor Of Love - Black https://paparazziaccessories.com/shop/products/labor-of-love-black/
+Keep Ballin - Black https://paparazziaccessories.com/shop/products/keep-ballin-black/
+Flutter Fashion - White https://paparazziaccessories.com/shop/products/flutter-fashion-white/
+Hibiscus Breeze - Yellow https://paparazziaccessories.com/shop/products/hibiscus-breeze-yellow/
+sent email
+ran at 2017-08-09 15:12:28.406310
+ran at 2017-08-09 15:20:52.162133
+ran at 2017-08-09 15:30:34.409086
+A Silver Spell  https://paparazziaccessories.com/shop/products/a-silver-spell-P2ED-SVXX-003XX/
+Untamed https://paparazziaccessories.com/shop/products/untamed/
+Break A Leg! https://paparazziaccessories.com/shop/products/marble-and-black-beads-with-cluster-blockbust/
+GLITZY By Association https://paparazziaccessories.com/shop/products/glitzy-by-association/
+Glaze of Glory - Peach https://paparazziaccessories.com/shop/products/peach-glaze-blockbuster-bracelet-P9RE-OGSV-010XX/
+sent email
+ran at 2017-08-10 08:30:29.346424
+ran at 2017-08-10 08:40:23.231691
+ran at 2017-08-10 08:50:24.475525
+ran at 2017-08-10 09:00:30.088758
+ran at 2017-08-10 09:10:24.040837
+ran at 2017-08-10 09:20:24.094938
+ran at 2017-08-10 09:30:21.806790
+ran at 2017-08-10 09:40:20.868520
+ran at 2017-08-10 09:50:25.986850
+ran at 2017-08-10 10:00:23.732354

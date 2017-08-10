@@ -1,0 +1,21 @@
+<div class="infinite-item"> 
+{% for chunk in items %}
+    <div class="row">
+    {% for item in chunk %}
+        <div class="col">
+            <div class="well item-info">
+                <h5>{{item.title_original}}</h5>
+                <ul class="item-actions">
+                    <li>
+                        <img src="{{item.image_url}}" class="img-responsive img-thumbnail"></img>
+                    </li>
+                    <li>
+                        <a class="btn btn-primary btn-sm" href="#">Add to Cart</a>
+                    <li>
+                <ul>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+{% endfor %}
+</div>
