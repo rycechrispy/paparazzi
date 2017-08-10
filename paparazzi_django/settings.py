@@ -55,32 +55,35 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'paparazzi_django.urls'
 
 TEMPLATES = [
+    # {
+    #     'BACKEND': 'django.template.backends.jinja2.Jinja2',
+    #     'DIRS': [os.path.join(BASE_DIR, 'paparazzi/templates')],
+    #     'APP_DIRS': True,
+    #     'OPTIONS': {
+    #         # 'context_processors': [
+    #         #     'django.template.context_processors.static',
+    #         #     'social_django.context_processors.backends',
+    #         #     'social_django.context_processors.login_redirect',
+    #         # ],
+    #         'environment': "paparazzi.jinja2.environment",
+    #     },
+    # },
     {
-        'BACKEND': 'django.template.backends.jinja2.Jinja2',
+        'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [os.path.join(BASE_DIR, 'paparazzi/templates')],
         'APP_DIRS': True,
         'OPTIONS': {
-            # 'context_processors': [
-            #     'django.template.context_processors.static',
-            #     'social_django.context_processors.backends',
-            #     'social_django.context_processors.login_redirect',
-            # ],
-            'environment': "paparazzi.jinja2.environment",
+            'context_processors': [
+                'django.template.context_processors.debug',
+                'django.template.context_processors.request',
+                'django.contrib.auth.context_processors.auth',
+                'django.contrib.messages.context_processors.messages',
+                'django.template.context_processors.static',
+                'social_django.context_processors.backends',
+                'social_django.context_processors.login_redirect',
+            ],
         },
     },
-    # {
-    #     'BACKEND': 'django.template.backends.django.DjangoTemplates',
-    #     'DIRS': [],
-    #     'APP_DIRS': True,
-    #     'OPTIONS': {
-    #         'context_processors': [
-    #             'django.template.context_processors.debug',
-    #             'django.template.context_processors.request',
-    #             'django.contrib.auth.context_processors.auth',
-    #             'django.contrib.messages.context_processors.messages',
-    #         ],
-    #     },
-    # },
 ]
 
 WSGI_APPLICATION = 'paparazzi_django.wsgi.application'

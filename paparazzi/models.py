@@ -5,15 +5,36 @@ from django.db import models
 from django.contrib.auth.models import User
 from django.utils.encoding import python_2_unicode_compatible
 
+class EnumField(models.Field):
+    def __init__(self, *args, **kwargs):
+        super(EnumField, self).__init__(*args, **kwargs)
+        assert self.choices, "Need choices for enumeration"
+
+    def db_type(self, connection):
+        if not all(isinstance(col, basestring) for col, _ in self.choices):
+            raise ValueError("MySQL ENUM values should be strings")
+        return "ENUM({})".format(','.join("'{}'".format(col) 
+                                          for col, _ in self.choices))
+
 @python_2_unicode_compatible
 class Item(models.Model):
+    categories = (
+        ("bracelet", "Bracelet"),
+        ("earring", "Earring"),
+        ("ring", "Ring"),
+        ("necklace", "Necklace"), 
+        ("hair-clip", "Hair-Clip"),
+        ("headband", "Headband"),
+    )
+
     title_original = models.CharField(max_length=255, unique=True)
     title = models.CharField(max_length=255, db_index=True)
     color = models.CharField(max_length=128, db_index=True, null=True)
     image_url = models.URLField(max_length=1536, null=True)
     url = models.URLField(max_length=1536, null=True)
     being_sold = models.BooleanField(default=False, db_index=True)
-    date_found_sold = models.DateField(default=None, db_index=True)
+    category = EnumField(choices=categories, default=None, null=True)
+    date_found_sold = models.DateField(default=None, db_index=True, null=True)
     date_created = models.DateField(db_index=True)
     last_modified = models.DateTimeField(auto_now=True, db_index=True)
 

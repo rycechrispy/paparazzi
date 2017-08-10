@@ -24,9 +24,14 @@ django.setup()
 from paparazzi.models import Item
 
 def main():
-    url = "https://paparazziaccessories.com/shop/"
-    pages = get_pages(url)
-    all_items = get_all_items(url, pages)
+    categories = ["bracelets", "earrings", "rings", "necklaces", "hair-clips", "headbands"]
+    all_items = []
+    for category in categories:
+        url = "https://paparazziaccessories.com/shop/category/%s/" % (category)
+        pages = get_pages(url)
+        items = get_all_items(url, pages, category)
+        all_items.extend(items)
+
     new_items = get_new_items(all_items)
     html = get_html(new_items)
     if html:
@@ -38,11 +43,11 @@ def main():
     date = datetime.datetime.now()
     print 'ran at %s' % date
 
-def get_all_items(url, pages, start_page=1):
+def get_all_items(url, pages, category, start_page=1):
     all_items = []
-    for p in range(start_page, pages):
-        new_url = '%s?page=%s' % (url, p)
-        items = get_items(url, new_url)
+    for p in range(start_page, pages+1):
+        new_url = '%s?page=%s&category=%s' % (url, p, category)
+        items = get_items(url, new_url, category)
         all_items.extend(items)
     return all_items
 
@@ -56,7 +61,7 @@ def get_pages(url):
             if m:
                 return int(m.group(1))
 
-def get_items(og_url, url):
+def get_items(og_url, url, category):
     html = requests.get(url).text
     soup = BeautifulSoup(html, 'html.parser')
     divs = soup.find_all("div", "js-product-box")
@@ -79,7 +84,8 @@ def get_items(og_url, url):
             "date_created": today,
             "url": link,
             "being_sold": True,
-            "date_found_sold": today
+            "date_found_sold": today,
+            "category": category[:-1]
         }
         items.append(item)
         #print item

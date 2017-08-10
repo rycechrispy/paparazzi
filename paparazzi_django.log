@@ -1073,3 +1073,465 @@ ran at 2017-08-10 09:30:21.806790
 ran at 2017-08-10 09:40:20.868520
 ran at 2017-08-10 09:50:25.986850
 ran at 2017-08-10 10:00:23.732354
+ran at 2017-08-10 10:10:22.726657
+ran at 2017-08-10 10:20:22.288014
+ran at 2017-08-10 10:30:24.155071
+ran at 2017-08-10 10:40:22.864676
+ran at 2017-08-10 10:50:22.847483
+ran at 2017-08-10 11:00:25.033610
+ran at 2017-08-10 11:10:24.449529
+ran at 2017-08-10 11:20:25.586686
+ran at 2017-08-10 11:30:21.731640
+ran at 2017-08-10 11:40:25.724510
+ran at 2017-08-10 11:50:25.907236
+ran at 2017-08-10 12:00:25.128280
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 162, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 36, in main
+    store_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 120, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 473, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 379, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 238, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.category' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 162, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 36, in main
+    store_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 120, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 473, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 379, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 238, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.category' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 162, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 36, in main
+    store_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 120, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 473, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 379, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 238, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.category' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 162, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 36, in main
+    store_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 120, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 473, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 379, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 238, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.category' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 162, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 36, in main
+    store_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 120, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 473, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 379, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 238, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.category' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 162, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 36, in main
+    store_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 120, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 473, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 379, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 238, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.category' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 162, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 36, in main
+    store_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 120, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 473, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 379, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 238, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.category' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 162, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 36, in main
+    store_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 120, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 473, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 379, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 238, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.category' in 'field list'")
+{'values': (u'bracelet', u'earring', u'ring', u'necklace', u'hair-clip', u'headband')}
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 162, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 36, in main
+    store_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 120, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 473, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 379, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 238, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.category' in 'field list'")
+{'values': (u'bracelet', u'earring', u'ring', u'necklace', u'hair-clip', u'headband')}
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 23, in <module>
+    django.setup()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+    app_config.import_models(all_models)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/apps/config.py", line 199, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi/models.py", line 32, in <module>
+    class Item(models.Model):
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/base.py", line 157, in __new__
+    new_class.add_to_class(obj_name, obj)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/base.py", line 316, in add_to_class
+    value.contribute_to_class(cls, name)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/fields/__init__.py", line 689, in contribute_to_class
+    self.set_attributes_from_name(name)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/fields/__init__.py", line 667, in set_attributes_from_name
+    if not self.name:
+AttributeError: 'EnumField' object has no attribute 'name'
+{'values': (u'bracelet', u'earring', u'ring', u'necklace', u'hair-clip', u'headband')}
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 23, in <module>
+    django.setup()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+    app_config.import_models(all_models)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/apps/config.py", line 199, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi/models.py", line 32, in <module>
+    class Item(models.Model):
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/base.py", line 157, in __new__
+    new_class.add_to_class(obj_name, obj)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/base.py", line 316, in add_to_class
+    value.contribute_to_class(cls, name)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/fields/__init__.py", line 689, in contribute_to_class
+    self.set_attributes_from_name(name)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/fields/__init__.py", line 667, in set_attributes_from_name
+    if not self.name:
+AttributeError: 'EnumField' object has no attribute 'name'
+{'values': (u'bracelet', u'earring', u'ring', u'necklace', u'hair-clip', u'headband')}
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 23, in <module>
+    django.setup()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+    app_config.import_models(all_models)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/apps/config.py", line 199, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi/models.py", line 32, in <module>
+    class Item(models.Model):
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/base.py", line 157, in __new__
+    new_class.add_to_class(obj_name, obj)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/base.py", line 316, in add_to_class
+    value.contribute_to_class(cls, name)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/fields/__init__.py", line 689, in contribute_to_class
+    self.set_attributes_from_name(name)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/fields/__init__.py", line 667, in set_attributes_from_name
+    if not self.name:
+AttributeError: 'EnumField' object has no attribute 'name'
+Traceback (most recent call last):
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 162, in <module>
+    main()
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 36, in main
+    store_items(all_items)
+  File "/Users/Chris/Documents/paparazzi_django/paparazzi_pull.py", line 120, in store_items
+    title_original=title_original, defaults=item
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 473, in get_or_create
+    return self.get(**lookup), False
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 379, in get
+    num = len(clone)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 238, in __len__
+    self._fetch_all()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/Chris/Documents/pdjango/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+django.db.utils.OperationalError: (1054, "Unknown column 'paparazzi_item.category' in 'field list'")
+bracelets 1
+bracelets 2
+bracelets 3
+bracelets 4
+earrings 1
+earrings 2
+earrings 3
+earrings 4
+rings 1
+rings 2
+rings 3
+necklaces 1
+necklaces 2
+necklaces 3
+necklaces 4
+necklaces 5
+necklaces 6
+hair-clips 1
+headbands 1
+ran at 2017-08-10 14:20:29.157543
