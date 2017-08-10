@@ -1,1 +1,1 @@
-# paparazzi_django
+# paparazzi
