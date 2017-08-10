@@ -24,7 +24,7 @@
           </div>
         {% else %}
         <div class="pagination">
-          <a class="pagination__next" href="{{ url('index') }}{{page+1}}"></a>
+          <a class="pagination__next" href="{% url 'index' %}{{ page }}"></a>
         </div>
         {% endif %}
         <div class="scroller-status">

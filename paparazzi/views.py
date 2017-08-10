@@ -40,7 +40,7 @@ def index(request, page=1):
     context = {
         'items': items,
         'request_url': request.path,
-        'page': page
+        'page': page + 1
     }
     if not items:
         context['page'] = -1
@@ -49,7 +49,7 @@ def index(request, page=1):
 @login_required
 @user_passes_test(lambda u: u.is_staff)
 def admin(request):
-    columns_order = ['id', 'image_url', 'title_original', 'title', 'color', 'being_sold']
+    columns_order = ['id', 'image_url', 'title', 'color', 'category', 'being_sold']
     columns = [{'data': col} for col in columns_order]
     context = {
         'columns': json.dumps(columns),
@@ -60,7 +60,7 @@ def admin(request):
 def get_admin_items(request):
     response_data = json.dumps(request.GET.dict())
     print response_data
-    columns_order = ['id', 'image_url', 'title_original', 'title', 'color', 'being_sold', 'url']
+    columns_order = ['id', 'image_url', 'title', 'color', 'category', 'being_sold', 'url']
     inner_qs = Stock.objects.values_list('item_id',flat=True)
     query = str(Item.objects.exclude(id__in=inner_qs).only(*columns_order).query)
     df = pd.read_sql_query(query, connection)
@@ -72,7 +72,7 @@ def get_admin_items(request):
 def get_stock_items(request):
     response_data = json.dumps(request.GET.dict())
     print response_data
-    columns_order = ['id', 'image_url', 'title_original', 'title', 'color', 'being_sold', 'quantity']
+    columns_order = ['id', 'image_url', 'title', 'color', 'category', 'being_sold', 'quantity']
     query = str(Stock.objects.select_related().query) #pass in a query that has the all columns with the join
     df = pd.read_sql_query(query, connection)
     df = drop_df_columns(columns_order, df, not_in=True) #remove all the columns we dont care about in the df

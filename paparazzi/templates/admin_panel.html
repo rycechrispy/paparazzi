@@ -82,7 +82,7 @@
         var stock_table;
         $(document).ready(function() {
             admin_table = $('#admin').DataTable({
-                ajax: "{{ url('get_admin_items') }}",
+                ajax: "{% url 'get_admin_items' %}",
                 columns: admin_columns,
                 displayLength: 10,
                 paging: true,
@@ -93,7 +93,7 @@
                 columnDefs: [
                     { "width": "10%", "targets": 1 },
                     { "width": "35%", "targets": 2 },
-                    { "width": "20%", "targets": 3 },
+                    { "width": "10%", "targets": 3 },
                     { "width": "10%", "targets": 4 },
                     { "width": "5%", "targets": 5 },
                     { "width": "20%", "targets": 6 },
@@ -104,8 +104,8 @@
                     //console.log(index);
                     var url = data.url;
                     if (url) {
-                        var title_original = data.title_original;
-                        var ahref_title = '<a href="'+url+'">'+title_original+'</a>';
+                        var title = data.title;
+                        var ahref_title = '<a href="'+url+'">'+title+'</a>';
                         $('td', row).eq(1).html(ahref_title);
                     }
 
@@ -132,7 +132,7 @@
             });
 
             stock_table = $('#stock').DataTable({
-                ajax: "{{ url('get_stock_items') }}",
+                ajax: "{% url 'get_stock_items' %}",
                 columns: stock_columns,
                 displayLength: 10,
                 paging: true,
@@ -143,7 +143,7 @@
                 columnDefs: [
                     { "width": "10%", "targets": 1 },
                     { "width": "35%", "targets": 2 },
-                    { "width": "20%", "targets": 3 },
+                    { "width": "10%", "targets": 3 },
                     { "width": "10%", "targets": 4 },
                     { "width": "5%", "targets": 5 },
                     { "width": "20%", "targets": 6 },
@@ -180,7 +180,7 @@
             var is_add = e_class.includes('add-item');
             var quantity = $(this).parent().prev().val();
             var id = $(this).attr('id').split('item-')[1];
-            var url = "{{ url('sell_item') }}";
+            var url = "{% url 'sell_item' %}";
             var data = {
                 "quantity": quantity, 
                 "id": id, 
@@ -202,7 +202,7 @@
 
         $(document).on("click", ".delete-item", function(e){
             var id = $(this).attr('id').split('item-')[1];
-            var url = "{{ url('delete_item') }}";
+            var url = "{% url 'delete_item' %}";
             var data = {"id": id, "csrfmiddlewaretoken": "{{ csrf_token }}"};
             $.ajax({
                 type: 'POST',
